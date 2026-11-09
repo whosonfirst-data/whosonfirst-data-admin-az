@@ -59,7 +59,7 @@
         "wk:page":"%C4%B0mamqulular"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"7fac841c8b41d30357654c1e59c9ca1c",
+    "wof:geomhash":"9ad85167de67f0070d1ab3512dac7690",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,5 +85,5 @@
     46.59764000000001,
     39.74297
 ],
-  "geometry": {"coordinates":[46.59764000000001,39.74297],"type":"Point"}
+  "geometry": {"coordinates":[46.59764,39.74297],"type":"Point"}
 }

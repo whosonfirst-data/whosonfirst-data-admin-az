@@ -66,7 +66,7 @@
         "wk:page":"T%C9%99kl%C9%99_Mirz%C9%99baba"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"490edb5063deda855165039c7359a49d",
+    "wof:geomhash":"53dd05458067f126fc1ff321ee3a5340",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,5 +92,5 @@
     48.78582,
     40.62439000000001
 ],
-  "geometry": {"coordinates":[48.78582,40.62439000000001],"type":"Point"}
+  "geometry": {"coordinates":[48.78582,40.62439],"type":"Point"}
 }

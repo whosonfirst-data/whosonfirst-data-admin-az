@@ -69,7 +69,7 @@
         "wk:page":"Azaru"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"9ca40e59d1beb17acce89c087918535a",
+    "wof:geomhash":"ca8de2ed9a4998e4a27dc8d86f346dda",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,5 +95,5 @@
     48.604,
     38.57579000000001
 ],
-  "geometry": {"coordinates":[48.604,38.57579000000001],"type":"Point"}
+  "geometry": {"coordinates":[48.604,38.57579],"type":"Point"}
 }

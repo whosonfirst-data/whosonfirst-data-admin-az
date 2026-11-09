@@ -68,7 +68,7 @@
         "wk:page":"Talab%C4%B1q%C4%B1%C5%9Flaq"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"9b5dc797b29ca32d95d6b8ac0d1c7008",
+    "wof:geomhash":"398bcd15e53e15b00757fbf08b578686",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -94,5 +94,5 @@
     48.72259,
     41.31509000000001
 ],
-  "geometry": {"coordinates":[48.72259,41.31509000000001],"type":"Point"}
+  "geometry": {"coordinates":[48.72259,41.31509],"type":"Point"}
 }

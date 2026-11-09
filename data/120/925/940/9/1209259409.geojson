@@ -112,7 +112,7 @@
         "wk:page":"Babek_%28city%29"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"915f60d08d2b9bd1c166dd88cdbfe304",
+    "wof:geomhash":"e2f44dcf7d9d9ec8a6553c96d5910b1c",
     "wof:hierarchy":[
         {
             "country_id":85632717,
@@ -135,5 +135,5 @@
     45.44282000000001,
     39.15459
 ],
-  "geometry": {"coordinates":[45.44282000000001,39.15459],"type":"Point"}
+  "geometry": {"coordinates":[45.44282,39.15459],"type":"Point"}
 }

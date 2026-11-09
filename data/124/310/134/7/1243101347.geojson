@@ -66,7 +66,7 @@
         "wk:page":"C%C9%99lilli"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"7093e698788a2b90d6fa20891e897805",
+    "wof:geomhash":"8fcdcce99592886a9acfe07200b83760",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,5 +92,5 @@
     45.59829000000001,
     41.03701
 ],
-  "geometry": {"coordinates":[45.59829000000001,41.03701],"type":"Point"}
+  "geometry": {"coordinates":[45.59829,41.03701],"type":"Point"}
 }

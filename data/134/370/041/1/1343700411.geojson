@@ -55,7 +55,7 @@
         "wk:page":"Girdadul"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"a42433fd6f96b40dda4dca93b7851a8d",
+    "wof:geomhash":"fd09eec2c4a767b013cdfb11aea27b69",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,5 +81,5 @@
     47.75024000000001,
     40.74594
 ],
-  "geometry": {"coordinates":[47.75024000000001,40.74594],"type":"Point"}
+  "geometry": {"coordinates":[47.75024,40.74594],"type":"Point"}
 }

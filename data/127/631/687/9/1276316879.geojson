@@ -62,7 +62,7 @@
         "wk:page":"Kils%C9%99buqov"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"7dfc27cb0a6f48c603508aa6930fb2d0",
+    "wof:geomhash":"b824e0e22525ac24497971ff21883631",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,5 +88,5 @@
     46.29669000000001,
     41.69392
 ],
-  "geometry": {"coordinates":[46.29669000000001,41.69392],"type":"Point"}
+  "geometry": {"coordinates":[46.29669,41.69392],"type":"Point"}
 }

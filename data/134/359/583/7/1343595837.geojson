@@ -54,7 +54,7 @@
         "wk:page":"Odzhakhly"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"7623cbd2a55405f7645e6f8f0a0e161f",
+    "wof:geomhash":"905b24a0710b8938aa72902bffeacce6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     45.66889000000001,
     40.95417
 ],
-  "geometry": {"coordinates":[45.66889000000001,40.95417],"type":"Point"}
+  "geometry": {"coordinates":[45.66889,40.95417],"type":"Point"}
 }

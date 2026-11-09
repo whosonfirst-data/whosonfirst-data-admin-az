@@ -69,7 +69,7 @@
         "wk:page":"%C4%B0drisoba"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"f1f79c52bad596c73917c2d18e9ca882",
+    "wof:geomhash":"c1992302678aa7db55c0c7dadfe5775e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,5 +95,5 @@
     48.62224000000001,
     41.62837
 ],
-  "geometry": {"coordinates":[48.62224000000001,41.62837],"type":"Point"}
+  "geometry": {"coordinates":[48.62224,41.62837],"type":"Point"}
 }

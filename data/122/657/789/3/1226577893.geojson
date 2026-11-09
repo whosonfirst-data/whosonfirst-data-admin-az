@@ -83,7 +83,7 @@
         "wk:page":"Verin_S%C4%B1znek"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"cb4671b63eca05df226420b993f472eb",
+    "wof:geomhash":"d585141ebb51027ec52943b8d8f46d98",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -109,5 +109,5 @@
     46.83381,
     39.74084000000001
 ],
-  "geometry": {"coordinates":[46.83381,39.74084000000001],"type":"Point"}
+  "geometry": {"coordinates":[46.83381,39.74084],"type":"Point"}
 }

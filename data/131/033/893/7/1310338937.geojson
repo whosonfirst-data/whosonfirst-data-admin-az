@@ -54,7 +54,7 @@
         "wk:page":"Sofular"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"a860f5525d792b358fdf15b0dcded400",
+    "wof:geomhash":"965c7515904aec533f7f5879d42edbfb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     45.62428,
     40.77999000000001
 ],
-  "geometry": {"coordinates":[45.62428,40.77999000000001],"type":"Point"}
+  "geometry": {"coordinates":[45.62428,40.77999],"type":"Point"}
 }

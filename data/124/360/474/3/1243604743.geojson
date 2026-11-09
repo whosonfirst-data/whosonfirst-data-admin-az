@@ -65,7 +65,7 @@
         "wk:page":"N%C9%99rimanabad%2C_Lankaran"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"a78d8a329b54be879a8d48c379e1f1d5",
+    "wof:geomhash":"8782c2ed9a9e6aba2b9837aa564ee621",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -90,5 +90,5 @@
     48.84444000000001,
     38.86722
 ],
-  "geometry": {"coordinates":[48.84444000000001,38.86722],"type":"Point"}
+  "geometry": {"coordinates":[48.84444,38.86722],"type":"Point"}
 }

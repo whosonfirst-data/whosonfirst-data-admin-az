@@ -51,7 +51,7 @@
         "wk:page":"Padar-Chala"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"1ebc201e6d9499f04e3ce07cdb1abc36",
+    "wof:geomhash":"281a27b4642be8babb98dced3e7e3307",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     46.54389000000001,
     41.41528
 ],
-  "geometry": {"coordinates":[46.54389000000001,41.41528],"type":"Point"}
+  "geometry": {"coordinates":[46.54389,41.41528],"type":"Point"}
 }

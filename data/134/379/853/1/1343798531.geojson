@@ -54,7 +54,7 @@
         "wk:page":"S%C9%99f%C9%99rli%2C_Tovuz"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"ba624b9b05689dc3c5dec2ed62991ee1",
+    "wof:geomhash":"afd98248edb2af3780eabb8e38e16bfd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     45.52833,
     40.70059000000001
 ],
-  "geometry": {"coordinates":[45.52833,40.70059000000001],"type":"Point"}
+  "geometry": {"coordinates":[45.52833,40.70059],"type":"Point"}
 }

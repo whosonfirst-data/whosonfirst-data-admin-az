@@ -69,7 +69,7 @@
         "wk:page":"%C6%8Fmirarx"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"1db7ae72d9c80e78793a4923636e6d26",
+    "wof:geomhash":"93b7a3897df5ab6054aed8c0a33d0e03",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,5 +95,5 @@
     47.37909000000001,
     40.55725
 ],
-  "geometry": {"coordinates":[47.37909000000001,40.55725],"type":"Point"}
+  "geometry": {"coordinates":[47.37909,40.55725],"type":"Point"}
 }

@@ -67,7 +67,7 @@
         "wk:page":"Qu%C5%9F%C3%A7u_K%C3%B6rp%C3%BCs%C3%BC"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"1b660e7f7e6a05214b80d30b39720487",
+    "wof:geomhash":"02b24fb680d60a509eca0cd4583c5f60",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -93,5 +93,5 @@
     46.11652,
     40.54454000000001
 ],
-  "geometry": {"coordinates":[46.11652,40.54454000000001],"type":"Point"}
+  "geometry": {"coordinates":[46.11652,40.54454],"type":"Point"}
 }

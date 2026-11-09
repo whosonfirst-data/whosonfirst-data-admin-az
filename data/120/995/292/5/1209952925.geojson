@@ -51,7 +51,7 @@
         "wk:page":"A%C4%9Fyoxu%C5%9F"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"781e35d4f43e45ccc13f4da05efa3e74",
+    "wof:geomhash":"468301a15ec3557fd5228e79befe0a23",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     46.16009,
     40.63529000000001
 ],
-  "geometry": {"coordinates":[46.16009,40.63529000000001],"type":"Point"}
+  "geometry": {"coordinates":[46.16009,40.63529],"type":"Point"}
 }

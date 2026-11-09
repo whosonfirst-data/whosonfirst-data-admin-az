@@ -54,7 +54,7 @@
         "wk:page":"Taza-Abad"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"c6fa1b1a521c60e643d95c558646e7cc",
+    "wof:geomhash":"87fe46666cb85b70c0cf2ab643df8aac",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     48.27917,
     39.28194000000001
 ],
-  "geometry": {"coordinates":[48.27917,39.28194000000001],"type":"Point"}
+  "geometry": {"coordinates":[48.27917,39.28194],"type":"Point"}
 }

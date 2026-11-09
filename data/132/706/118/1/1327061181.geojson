@@ -57,7 +57,7 @@
         "wk:page":"Vov"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"db4b10fafd76026bbd24f72771397050",
+    "wof:geomhash":"7d769b0a376b42077732c7a28461eeaf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     48.62926,
     38.63359000000001
 ],
-  "geometry": {"coordinates":[48.62926,38.63359000000001],"type":"Point"}
+  "geometry": {"coordinates":[48.62926,38.63359],"type":"Point"}
 }

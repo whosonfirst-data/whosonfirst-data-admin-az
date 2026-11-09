@@ -66,7 +66,7 @@
         "wk:page":"Xaltan"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"0dd5cb60a6247b862003b29febcbb5a7",
+    "wof:geomhash":"806be447e26109d4eae5469c3bd3e68d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,5 +92,5 @@
     48.68259000000001,
     40.974
 ],
-  "geometry": {"coordinates":[48.68259000000001,40.974],"type":"Point"}
+  "geometry": {"coordinates":[48.68259,40.974],"type":"Point"}
 }

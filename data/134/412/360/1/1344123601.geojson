@@ -58,7 +58,7 @@
         "wk:page":"B%C3%B6y%C3%BCk_K%C9%99ng%C9%99rli"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"196562feb7ec8a000a6fbbbedb3d9477",
+    "wof:geomhash":"8563b84892392589b1f5d6d4b4dadd4f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,5 +84,5 @@
     48.33687000000001,
     40.44155
 ],
-  "geometry": {"coordinates":[48.33687000000001,40.44155],"type":"Point"}
+  "geometry": {"coordinates":[48.33687,40.44155],"type":"Point"}
 }

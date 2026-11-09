@@ -63,7 +63,7 @@
         "wk:page":"Zamanl%C4%B1"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"a017552a8e72b2ef25a983c0a1ca5077",
+    "wof:geomhash":"364caa216f99723d5be99a996b79bc6d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,5 +89,5 @@
     45.43982000000001,
     40.65112
 ],
-  "geometry": {"coordinates":[45.43982000000001,40.65112],"type":"Point"}
+  "geometry": {"coordinates":[45.43982,40.65112],"type":"Point"}
 }

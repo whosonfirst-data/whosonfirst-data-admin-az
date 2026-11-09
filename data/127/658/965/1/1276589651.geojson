@@ -60,7 +60,7 @@
         "wk:page":"%C4%B0brahimk%C9%99nd"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"ac1106c1191394954849761a702df8ac",
+    "wof:geomhash":"da1cf55f25fcdefa50daa4431f5e5658",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,5 +86,5 @@
     47.22789,
     41.02144000000001
 ],
-  "geometry": {"coordinates":[47.22789,41.02144000000001],"type":"Point"}
+  "geometry": {"coordinates":[47.22789,41.02144],"type":"Point"}
 }

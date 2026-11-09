@@ -66,7 +66,7 @@
         "wk:page":"Bo%C5%9F%C3%A7al%C4%B1lar"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"36d119b0e237371690295ef39bdb2ef2",
+    "wof:geomhash":"245865c27a7393e412ca66374b17658d",
     "wof:hierarchy":[
         {
             "country_id":85632717,
@@ -89,5 +89,5 @@
     47.95999000000001,
     39.81501
 ],
-  "geometry": {"coordinates":[47.95999000000001,39.81501],"type":"Point"}
+  "geometry": {"coordinates":[47.95999,39.81501],"type":"Point"}
 }

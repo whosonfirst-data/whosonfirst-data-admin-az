@@ -63,7 +63,7 @@
         "wk:page":"Soyulan"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"4c23195b8c415c3f89fce386f05bc2ca",
+    "wof:geomhash":"de774d7abcd91d1d9ba03bc1a2c9484a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,5 +89,5 @@
     47.05184000000001,
     40.32243
 ],
-  "geometry": {"coordinates":[47.05184000000001,40.32243],"type":"Point"}
+  "geometry": {"coordinates":[47.05184,40.32243],"type":"Point"}
 }

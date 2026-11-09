@@ -72,7 +72,7 @@
         "wk:page":"Yuxar%C4%B1_Q%C9%99sil"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"667890245303ad3c7e95279c44c8bf5a",
+    "wof:geomhash":"5a47efd05d2cc33838b83743520e27aa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,5 +98,5 @@
     47.51759000000001,
     40.65098
 ],
-  "geometry": {"coordinates":[47.51759000000001,40.65098],"type":"Point"}
+  "geometry": {"coordinates":[47.51759,40.65098],"type":"Point"}
 }

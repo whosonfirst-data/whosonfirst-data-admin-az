@@ -102,7 +102,7 @@
         "wk:page":"Barxudarl%C4%B1"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"71d5901f30ac8c0f9d5e9371290abf05",
+    "wof:geomhash":"04134f4a397c54dd3f8ca7bf6818185b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -134,5 +134,5 @@
     45.22564000000001,
     40.99359000000001
 ],
-  "geometry": {"coordinates":[45.22564000000001,40.99359000000001],"type":"Point"}
+  "geometry": {"coordinates":[45.22564,40.99359],"type":"Point"}
 }

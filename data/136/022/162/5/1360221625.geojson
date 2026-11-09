@@ -84,7 +84,7 @@
         "wk:page":"A%C4%9Fbulaq%2C_Khojaly"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"475df75f794d53a86f38f487c0013e3e",
+    "wof:geomhash":"b5f1a9b53e11924d6c1307e9d0368c53",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,5 +110,5 @@
     46.90094000000001,
     39.87799
 ],
-  "geometry": {"coordinates":[46.90094000000001,39.87799],"type":"Point"}
+  "geometry": {"coordinates":[46.90094,39.87799],"type":"Point"}
 }

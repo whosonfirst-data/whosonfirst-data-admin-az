@@ -61,7 +61,7 @@
         "wk:page":"Qazaxlar%2C_Goranboy"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"8b23fe3d4efae9d2678d1c9ae7f79db3",
+    "wof:geomhash":"efa19e8228ce0e1fbf07a5d04dbdd6d6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,5 +87,5 @@
     46.6801,
     40.66079000000001
 ],
-  "geometry": {"coordinates":[46.6801,40.66079000000001],"type":"Point"}
+  "geometry": {"coordinates":[46.6801,40.66079],"type":"Point"}
 }

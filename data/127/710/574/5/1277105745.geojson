@@ -51,7 +51,7 @@
         "wk:page":"Qalaalt%C4%B1"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"2f2025b988ad97fe10742cfe55fc4851",
+    "wof:geomhash":"81fa395f52a07dd2321bb166b79d72e4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     48.94609000000001,
     41.089
 ],
-  "geometry": {"coordinates":[48.94609000000001,41.089],"type":"Point"}
+  "geometry": {"coordinates":[48.94609,41.089],"type":"Point"}
 }

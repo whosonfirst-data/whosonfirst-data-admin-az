@@ -57,7 +57,7 @@
         "wk:page":"Hac%C4%B1%C9%99bd%C3%BCr%C9%99himoba"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"1e25698cc16a39afb9f1e4d3ec9d0f89",
+    "wof:geomhash":"f5357b798907b507d8e1225e1f948bdb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     48.77137000000001,
     41.60283
 ],
-  "geometry": {"coordinates":[48.77137000000001,41.60283],"type":"Point"}
+  "geometry": {"coordinates":[48.77137,41.60283],"type":"Point"}
 }

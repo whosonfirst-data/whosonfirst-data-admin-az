@@ -72,7 +72,7 @@
         "wk:page":"Bala_Qusarq%C4%B1%C5%9Flaq"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"8018ecb022e965bc0af0cddd8674fcba",
+    "wof:geomhash":"65a3f395269f7febd86394def09c29f1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,5 +98,5 @@
     48.64637000000001,
     41.59263
 ],
-  "geometry": {"coordinates":[48.64637000000001,41.59263],"type":"Point"}
+  "geometry": {"coordinates":[48.64637,41.59263],"type":"Point"}
 }

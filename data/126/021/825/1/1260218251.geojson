@@ -57,7 +57,7 @@
         "wk:page":"Suxtaqalaq%C4%B1%C5%9Flaq"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"030e0f94fc08e1510780639712b640db",
+    "wof:geomhash":"415340bd7bc44e15d5e859f085f18203",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     48.71545,
     41.38659000000001
 ],
-  "geometry": {"coordinates":[48.71545,41.38659000000001],"type":"Point"}
+  "geometry": {"coordinates":[48.71545,41.38659],"type":"Point"}
 }

@@ -70,7 +70,7 @@
         "wk:page":"Q%C4%B1rm%C4%B1z%C4%B1_Samux"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"0918569acf4c68b78546ee0f5e41cc30",
+    "wof:geomhash":"20fa1e391da9dda138f55bf7443a364d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,5 +98,5 @@
     46.37889000000001,
     40.93972
 ],
-  "geometry": {"coordinates":[46.37889000000001,40.93972],"type":"Point"}
+  "geometry": {"coordinates":[46.37889,40.93972],"type":"Point"}
 }

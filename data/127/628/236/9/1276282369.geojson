@@ -81,7 +81,7 @@
         "wk:page":"Q%C9%99m%C9%99rvan"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"3be418ebf9b4c26afe9b47e0769fb26b",
+    "wof:geomhash":"e656d1385045132f5a30545b5a759b3c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,5 +107,5 @@
     47.79613,
     41.06104000000001
 ],
-  "geometry": {"coordinates":[47.79613,41.06104000000001],"type":"Point"}
+  "geometry": {"coordinates":[47.79613,41.06104],"type":"Point"}
 }

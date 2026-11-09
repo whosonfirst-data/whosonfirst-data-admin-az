@@ -38,7 +38,7 @@
         "wk:page":"Razy-Kend"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"e5a782d6955ce9dcd6081e2ca34583e1",
+    "wof:geomhash":"18d44158e2b60312acc7353dbed5eea2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -64,5 +64,5 @@
     48.74639000000001,
     39.84806
 ],
-  "geometry": {"coordinates":[48.74639000000001,39.84806],"type":"Point"}
+  "geometry": {"coordinates":[48.74639,39.84806],"type":"Point"}
 }

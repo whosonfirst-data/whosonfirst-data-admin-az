@@ -64,7 +64,7 @@
         "wk:page":"Oktyabrk%C9%99nd"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"888b58cb0f45b9e8d20b05c4c687af74",
+    "wof:geomhash":"51a4b884c1154684071365cc51755b58",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -90,5 +90,5 @@
     46.02705,
     40.13829000000001
 ],
-  "geometry": {"coordinates":[46.02705,40.13829000000001],"type":"Point"}
+  "geometry": {"coordinates":[46.02705,40.13829],"type":"Point"}
 }

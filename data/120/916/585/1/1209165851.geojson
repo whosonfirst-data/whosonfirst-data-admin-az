@@ -39,7 +39,7 @@
         "wk:page":"Beylyarkend"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"7af165dc9df74a7703b5916850f02cad",
+    "wof:geomhash":"71142ec4b266d0c148b7de9769e76a55",
     "wof:hierarchy":[
         {
             "country_id":85632717,
@@ -62,5 +62,5 @@
     47.85534000000001,
     40.85208
 ],
-  "geometry": {"coordinates":[47.85534000000001,40.85208],"type":"Point"}
+  "geometry": {"coordinates":[47.85534,40.85208],"type":"Point"}
 }

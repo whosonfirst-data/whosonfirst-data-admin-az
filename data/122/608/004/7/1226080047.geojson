@@ -66,7 +66,7 @@
         "wk:page":"Alybeyli_Vtoryye"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"27b27e33bd5d42808f1865c37370d9d0",
+    "wof:geomhash":"fc824d5c42c0c0d709d3e223e82699ef",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,5 +92,5 @@
     46.74944,
     39.15544000000001
 ],
-  "geometry": {"coordinates":[46.74944,39.15544000000001],"type":"Point"}
+  "geometry": {"coordinates":[46.74944,39.15544],"type":"Point"}
 }

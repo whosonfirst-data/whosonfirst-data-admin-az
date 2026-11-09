@@ -60,7 +60,7 @@
         "wk:page":"M%C9%99likball%C4%B1"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"c0048eb2285092591c1455c1756408e3",
+    "wof:geomhash":"bb06cb83d85891a7fa35ccf7f80ee396",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,5 +86,5 @@
     47.54402,
     40.54519000000001
 ],
-  "geometry": {"coordinates":[47.54402,40.54519000000001],"type":"Point"}
+  "geometry": {"coordinates":[47.54402,40.54519],"type":"Point"}
 }

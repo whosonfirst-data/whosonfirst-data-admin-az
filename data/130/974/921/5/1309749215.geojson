@@ -84,7 +84,7 @@
         "wk:page":"Muxtar"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"1b0c4e01b9732496803df3f94928b602",
+    "wof:geomhash":"da2c55718c2331f78458d47100ec61b3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,5 +110,5 @@
     46.77444000000001,
     39.76255
 ],
-  "geometry": {"coordinates":[46.77444000000001,39.76255],"type":"Point"}
+  "geometry": {"coordinates":[46.77444,39.76255],"type":"Point"}
 }

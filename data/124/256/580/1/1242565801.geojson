@@ -51,7 +51,7 @@
         "wk:page":"Divanl%C4%B1"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"10e661590b5b1f8f0f454bb5e5e5ea3d",
+    "wof:geomhash":"cfc8ba427fbe7c261ae9e9ca1650903c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     47.11389000000001,
     40.40786
 ],
-  "geometry": {"coordinates":[47.11389000000001,40.40786],"type":"Point"}
+  "geometry": {"coordinates":[47.11389,40.40786],"type":"Point"}
 }

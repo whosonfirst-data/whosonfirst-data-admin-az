@@ -64,7 +64,7 @@
         "wk:page":"%C4%B0kinci_Meyniman"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"389c4b34d39c0cfb8477d2bfee06776d",
+    "wof:geomhash":"990610f453f5c60e46a91183c96c28c2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -90,5 +90,5 @@
     48.74022,
     40.04342000000001
 ],
-  "geometry": {"coordinates":[48.74022,40.04342000000001],"type":"Point"}
+  "geometry": {"coordinates":[48.74022,40.04342],"type":"Point"}
 }

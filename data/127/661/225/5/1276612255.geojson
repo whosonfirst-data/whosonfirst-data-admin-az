@@ -58,7 +58,7 @@
         "wk:page":"A%C5%9Fa%C4%9F%C4%B1_Qaram%C9%99ryam"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"caca7ce8c0c252fcf9eabd61d1ac46fa",
+    "wof:geomhash":"543ab750d3b4e81729c5d00706908e80",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,5 +84,5 @@
     47.98439000000001,
     40.57487
 ],
-  "geometry": {"coordinates":[47.98439000000001,40.57487],"type":"Point"}
+  "geometry": {"coordinates":[47.98439,40.57487],"type":"Point"}
 }

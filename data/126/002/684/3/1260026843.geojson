@@ -63,7 +63,7 @@
         "wk:page":"Xarxatan"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"24cfd5a51466ec4042de48ee0fdd34b3",
+    "wof:geomhash":"8c75001d39e692c663db78f4c82d0128",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,5 +89,5 @@
     48.7393,
     38.85319000000001
 ],
-  "geometry": {"coordinates":[48.7393,38.85319000000001],"type":"Point"}
+  "geometry": {"coordinates":[48.7393,38.85319],"type":"Point"}
 }

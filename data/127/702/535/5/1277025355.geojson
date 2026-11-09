@@ -69,7 +69,7 @@
         "wk:page":"Ki%C3%A7ik_Pireli"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"291ce3d497fcdddf9caadc27e933c1d5",
+    "wof:geomhash":"ff2ee54a35ab66560b06f40c040bf5a4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,5 +95,5 @@
     47.76593,
     40.91614000000001
 ],
-  "geometry": {"coordinates":[47.76593,40.91614000000001],"type":"Point"}
+  "geometry": {"coordinates":[47.76593,40.91614],"type":"Point"}
 }

@@ -59,7 +59,7 @@
         "wk:page":"Bozalqanl%C4%B1_%28Boz_Bozalganly%29"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"4ef29b29b5f1dea83548d897a640642b",
+    "wof:geomhash":"652e976c7c4ccd48c0ea41b2ec230bea",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,5 +85,5 @@
     45.7975,
     41.06444000000001
 ],
-  "geometry": {"coordinates":[45.7975,41.06444000000001],"type":"Point"}
+  "geometry": {"coordinates":[45.7975,41.06444],"type":"Point"}
 }

@@ -60,7 +60,7 @@
         "wk:page":"Mollac%C9%99lilli"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"1acfefc76c633e6f138522ef18820a65",
+    "wof:geomhash":"b8acc43f2757c77d8935138bef9ecadd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,5 +86,5 @@
     46.37077,
     40.59249000000001
 ],
-  "geometry": {"coordinates":[46.37077,40.59249000000001],"type":"Point"}
+  "geometry": {"coordinates":[46.37077,40.59249],"type":"Point"}
 }

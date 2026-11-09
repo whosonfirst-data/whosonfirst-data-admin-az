@@ -64,7 +64,7 @@
         "wk:page":"Tumbul"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"14ba89733d5f9c04a19d7230fddd17bf",
+    "wof:geomhash":"7c2e33b4017bae49c2f6878fcaec2db7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -90,5 +90,5 @@
     45.42424000000001,
     39.16791
 ],
-  "geometry": {"coordinates":[45.42424000000001,39.16791],"type":"Point"}
+  "geometry": {"coordinates":[45.42424,39.16791],"type":"Point"}
 }

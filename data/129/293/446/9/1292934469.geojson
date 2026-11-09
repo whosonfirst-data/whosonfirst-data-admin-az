@@ -60,7 +60,7 @@
         "wk:page":"Sary-Kaya"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"83a83f48da57689d7a556148d9b87cfe",
+    "wof:geomhash":"2b4fa153f467a12f2db2e6db17e2498d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,5 +86,5 @@
     46.25964000000001,
     40.36132
 ],
-  "geometry": {"coordinates":[46.25964000000001,40.36132],"type":"Point"}
+  "geometry": {"coordinates":[46.25964,40.36132],"type":"Point"}
 }

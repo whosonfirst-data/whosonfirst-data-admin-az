@@ -66,7 +66,7 @@
         "wk:page":"Kufoba"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"ae6c68b6cc4e30ae9f455ef5cf0522d8",
+    "wof:geomhash":"3e7909699be14536e7fc6a03d0d7b517",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,5 +92,5 @@
     48.46364000000001,
     41.67571
 ],
-  "geometry": {"coordinates":[48.46364000000001,41.67571],"type":"Point"}
+  "geometry": {"coordinates":[48.46364,41.67571],"type":"Point"}
 }

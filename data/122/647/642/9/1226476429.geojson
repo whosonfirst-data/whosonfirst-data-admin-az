@@ -46,7 +46,7 @@
         "wk:page":"%C5%9Eatrovka"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"2aa31205742a0e4cb63955969a6f5527",
+    "wof:geomhash":"96442bf8bc6cf4f4bc3dc3b7c4b6086c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -72,5 +72,5 @@
     48.94784,
     39.82899000000001
 ],
-  "geometry": {"coordinates":[48.94784,39.82899000000001],"type":"Point"}
+  "geometry": {"coordinates":[48.94784,39.82899],"type":"Point"}
 }

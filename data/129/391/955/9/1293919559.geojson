@@ -72,7 +72,7 @@
         "wk:page":"M%C3%BCr%C5%9F%C3%BCdoba"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"70d1326139c854caa9939729fc0b74e6",
+    "wof:geomhash":"31b0851f4292d2526f86c160afb4bb9b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,5 +98,5 @@
     48.75611,
     41.50917000000001
 ],
-  "geometry": {"coordinates":[48.75611,41.50917000000001],"type":"Point"}
+  "geometry": {"coordinates":[48.75611,41.50917],"type":"Point"}
 }

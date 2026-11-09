@@ -44,7 +44,7 @@
         "wk:page":"C%C3%BClyan_%2840%C2%B0_49%27_N_48%C2%B0_11%27_E%29"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"84ae23a55d58f43ef3837717453cfa3d",
+    "wof:geomhash":"015d83c0091e73d5f8146c4b00239d54",
     "wof:hierarchy":[
         {
             "country_id":85632717,
@@ -67,5 +67,5 @@
     48.17254000000001,
     40.81628
 ],
-  "geometry": {"coordinates":[48.17254000000001,40.81628],"type":"Point"}
+  "geometry": {"coordinates":[48.17254,40.81628],"type":"Point"}
 }

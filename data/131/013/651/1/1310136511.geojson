@@ -69,7 +69,7 @@
         "wk:page":"%C6%8Fhm%C9%99doba"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"dd656ae3b789b082ebee2a92e6751653",
+    "wof:geomhash":"44bce00b49e187a5b7e7df864b9e5919",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,5 +95,5 @@
     48.8125,
     41.51694000000001
 ],
-  "geometry": {"coordinates":[48.8125,41.51694000000001],"type":"Point"}
+  "geometry": {"coordinates":[48.8125,41.51694],"type":"Point"}
 }

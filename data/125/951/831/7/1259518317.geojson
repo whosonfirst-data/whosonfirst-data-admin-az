@@ -64,7 +64,7 @@
         "wk:page":"Xaspoladoba"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"ab4c5da48cd84b344f78e701b86138c8",
+    "wof:geomhash":"42b23c9e9e80b2d8eaba43b75aed58ac",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -90,5 +90,5 @@
     48.82664000000001,
     41.4899
 ],
-  "geometry": {"coordinates":[48.82664000000001,41.4899],"type":"Point"}
+  "geometry": {"coordinates":[48.82664,41.4899],"type":"Point"}
 }

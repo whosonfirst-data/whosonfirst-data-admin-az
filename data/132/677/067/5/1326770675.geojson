@@ -58,7 +58,7 @@
         "wk:page":"Haqverdil%C9%99r"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"4158b107d57dd60d14c2550d636bb389",
+    "wof:geomhash":"b567ecaa771f00abde7a1f616dae1b9e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,5 +84,5 @@
     49.14494000000001,
     39.27489
 ],
-  "geometry": {"coordinates":[49.14494000000001,39.27489],"type":"Point"}
+  "geometry": {"coordinates":[49.14494,39.27489],"type":"Point"}
 }

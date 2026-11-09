@@ -66,7 +66,7 @@
         "wk:page":"Dar%C4%9Falar"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"5cb01966ce01ce49b73b7de70330d75b",
+    "wof:geomhash":"2061fbb864e3c87fff4adbec32dff542",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,5 +92,5 @@
     47.10937,
     40.33609000000001
 ],
-  "geometry": {"coordinates":[47.10937,40.33609000000001],"type":"Point"}
+  "geometry": {"coordinates":[47.10937,40.33609],"type":"Point"}
 }

@@ -64,7 +64,7 @@
         "wk:page":"Eyvazallar"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"35663da89928b12781dd81b967fdb5f2",
+    "wof:geomhash":"6f18a82f5dc9c766f0dae437f4dc9d39",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -90,5 +90,5 @@
     47.63698,
     39.87054000000001
 ],
-  "geometry": {"coordinates":[47.63698,39.87054000000001],"type":"Point"}
+  "geometry": {"coordinates":[47.63698,39.87054],"type":"Point"}
 }

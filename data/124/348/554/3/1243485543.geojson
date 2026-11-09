@@ -63,7 +63,7 @@
         "wk:page":"S%C9%99limoba"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"a3d24cbb07687581cb34f1c3b9e4e42b",
+    "wof:geomhash":"f0fc3ee393d5c410a90e91d56a9ddf82",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,5 +89,5 @@
     48.60566,
     41.77999000000001
 ],
-  "geometry": {"coordinates":[48.60566,41.77999000000001],"type":"Point"}
+  "geometry": {"coordinates":[48.60566,41.77999],"type":"Point"}
 }

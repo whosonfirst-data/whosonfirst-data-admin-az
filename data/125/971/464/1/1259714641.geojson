@@ -68,7 +68,7 @@
         "wk:page":"Qarada%C5%9F"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"7c759d9d3fa7c9cb453bfbdf28694f17",
+    "wof:geomhash":"881f26bcf63c496803743e9a29ceaf31",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -94,5 +94,5 @@
     45.48974000000001,
     40.69434
 ],
-  "geometry": {"coordinates":[45.48974000000001,40.69434],"type":"Point"}
+  "geometry": {"coordinates":[45.48974,40.69434],"type":"Point"}
 }

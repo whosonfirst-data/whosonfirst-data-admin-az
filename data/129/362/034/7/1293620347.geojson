@@ -67,7 +67,7 @@
         "wk:page":"Ma%C5%9Fioba"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"e4bb12fe6b377d3fb108272a8b95f9c0",
+    "wof:geomhash":"324788caa098042fa518e298efe09c3d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -93,5 +93,5 @@
     48.74744000000001,
     41.46896
 ],
-  "geometry": {"coordinates":[48.74744000000001,41.46896],"type":"Point"}
+  "geometry": {"coordinates":[48.74744,41.46896],"type":"Point"}
 }

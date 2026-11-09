@@ -56,7 +56,7 @@
         "wk:page":"Qaramahmudlu"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"b0efa53c1fe98fc18557301ea9367569",
+    "wof:geomhash":"0abfba1dce0a8ea2152d46ce400c5278",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -82,5 +82,5 @@
     48.03364000000001,
     40.14735
 ],
-  "geometry": {"coordinates":[48.03364000000001,40.14735],"type":"Point"}
+  "geometry": {"coordinates":[48.03364,40.14735],"type":"Point"}
 }

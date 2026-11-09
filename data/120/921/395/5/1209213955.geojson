@@ -54,7 +54,7 @@
         "wk:page":"Yaradullu"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"0b486cd3d0658991690edabba912b321",
+    "wof:geomhash":"f8a5c2d68cfbddc0a006918264b3d576",
     "wof:hierarchy":[
         {
             "country_id":85632717,
@@ -77,5 +77,5 @@
     45.43781,
     41.01929000000001
 ],
-  "geometry": {"coordinates":[45.43781,41.01929000000001],"type":"Point"}
+  "geometry": {"coordinates":[45.43781,41.01929],"type":"Point"}
 }

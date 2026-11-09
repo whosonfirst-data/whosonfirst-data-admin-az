@@ -66,7 +66,7 @@
         "wk:page":"Gilgil%C3%A7ay"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"dd83e0b81e917680f4f0e68e8a3dbfe3",
+    "wof:geomhash":"3ecc85d557089cf9a5a94626b4e66a17",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,5 +92,5 @@
     49.09152,
     41.13874000000001
 ],
-  "geometry": {"coordinates":[49.09152,41.13874000000001],"type":"Point"}
+  "geometry": {"coordinates":[49.09152,41.13874],"type":"Point"}
 }

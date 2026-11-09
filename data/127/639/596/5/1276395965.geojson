@@ -78,7 +78,7 @@
         "wk:page":"Mehmana"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"13f595878066fd3c5f42912966d1e559",
+    "wof:geomhash":"f1554bba2d2442864d5102e0bf2277ec",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,5 +104,5 @@
     46.66921,
     40.15114000000001
 ],
-  "geometry": {"coordinates":[46.66921,40.15114000000001],"type":"Point"}
+  "geometry": {"coordinates":[46.66921,40.15114],"type":"Point"}
 }

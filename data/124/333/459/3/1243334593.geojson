@@ -48,7 +48,7 @@
         "wk:page":"Tulus"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"f7556864bac7a3b6a20d458d04dbeb09",
+    "wof:geomhash":"1ddbbe974feac2302cb732532c150707",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     47.06445,
     39.35919000000001
 ],
-  "geometry": {"coordinates":[47.06445,39.35919000000001],"type":"Point"}
+  "geometry": {"coordinates":[47.06445,39.35919],"type":"Point"}
 }

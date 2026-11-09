@@ -60,7 +60,7 @@
         "wk:page":"Diz%C9%99v%C9%99r"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"5552ad4fa2e4a3c6dc79bfc43353fc93",
+    "wof:geomhash":"b8d998ee2158992431dd9496de6d9a79",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,5 +86,5 @@
     49.14578,
     40.80269000000001
 ],
-  "geometry": {"coordinates":[49.14578,40.80269000000001],"type":"Point"}
+  "geometry": {"coordinates":[49.14578,40.80269],"type":"Point"}
 }

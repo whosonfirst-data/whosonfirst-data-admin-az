@@ -63,7 +63,7 @@
         "wk:page":"%C6%8Fliqas%C4%B1ml%C4%B1"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"bc1611ea8a6102660b9cb9b7c26bfb63",
+    "wof:geomhash":"260d35ef686c815f986af2324a5bd103",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,5 +89,5 @@
     48.45687,
     39.28657000000001
 ],
-  "geometry": {"coordinates":[48.45687,39.28657000000001],"type":"Point"}
+  "geometry": {"coordinates":[48.45687,39.28657],"type":"Point"}
 }

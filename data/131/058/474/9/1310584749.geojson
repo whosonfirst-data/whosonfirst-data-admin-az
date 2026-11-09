@@ -64,7 +64,7 @@
         "wk:page":"Soltanl%C4%B1"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"55443d1d4b9b98acf2966c9c9259846e",
+    "wof:geomhash":"75d48d3533dfe7b79b34af4f9910536c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -90,5 +90,5 @@
     47.04754000000001,
     39.2594
 ],
-  "geometry": {"coordinates":[47.04754000000001,39.2594],"type":"Point"}
+  "geometry": {"coordinates":[47.04754,39.2594],"type":"Point"}
 }

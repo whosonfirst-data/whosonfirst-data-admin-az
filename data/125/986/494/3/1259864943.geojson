@@ -72,7 +72,7 @@
         "wk:page":"Burzub%C9%99nd"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"b11370cf227762c585f1707470a26b17",
+    "wof:geomhash":"eb75ae8934a8d4f15a7084ab891365f8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,5 +98,5 @@
     48.75501,
     38.52399000000001
 ],
-  "geometry": {"coordinates":[48.75501,38.52399000000001],"type":"Point"}
+  "geometry": {"coordinates":[48.75501,38.52399],"type":"Point"}
 }

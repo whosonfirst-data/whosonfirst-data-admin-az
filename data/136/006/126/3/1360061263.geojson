@@ -66,7 +66,7 @@
         "wk:page":"Yuxar%C4%B1_R%C9%99f%C9%99dinli"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"61275597c67ae7124eb5f698fbea5f7c",
+    "wof:geomhash":"9602c862b6c571364884dfab9c11b795",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,5 +92,5 @@
     47.12194,
     39.48139000000001
 ],
-  "geometry": {"coordinates":[47.12194,39.48139000000001],"type":"Point"}
+  "geometry": {"coordinates":[47.12194,39.48139],"type":"Point"}
 }

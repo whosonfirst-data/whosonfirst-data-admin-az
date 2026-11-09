@@ -66,7 +66,7 @@
         "wk:page":"Qarabucaq_%28Northern_Kurdamir%29"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"17756f4eed6b0a2a5a9b17bd90e95a18",
+    "wof:geomhash":"0c235def849e79109684e13ea71b272d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,5 +92,5 @@
     48.05957,
     40.42599000000001
 ],
-  "geometry": {"coordinates":[48.05957,40.42599000000001],"type":"Point"}
+  "geometry": {"coordinates":[48.05957,40.42599],"type":"Point"}
 }

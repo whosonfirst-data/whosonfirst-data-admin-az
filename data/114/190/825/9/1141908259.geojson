@@ -124,7 +124,7 @@
     "wof:concordances":{},
     "wof:country":"AZ",
     "wof:created":1499130861,
-    "wof:geomhash":"8ee874e6a3c2d093a85a58ec33a4dbb5",
+    "wof:geomhash":"9085ef0115be1b240714fa0993ebace3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -150,5 +150,5 @@
     45.41220454792074,
     39.2092203969832
 ],
-  "geometry": {"coordinates":[45.41220454792074,39.2092203969832],"type":"Point"}
+  "geometry": {"coordinates":[45.412205,39.20922],"type":"Point"}
 }

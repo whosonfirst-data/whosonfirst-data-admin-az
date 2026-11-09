@@ -57,7 +57,7 @@
         "wk:page":"Sar%C4%B1k%C3%B6yn%C9%99k"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"571a277504244a80f8f678b13d6d63c6",
+    "wof:geomhash":"fc4d9c75c75c963f928fe65e66b7bcd2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     45.71673,
     40.55074000000001
 ],
-  "geometry": {"coordinates":[45.71673,40.55074000000001],"type":"Point"}
+  "geometry": {"coordinates":[45.71673,40.55074],"type":"Point"}
 }

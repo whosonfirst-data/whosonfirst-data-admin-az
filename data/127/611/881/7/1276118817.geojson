@@ -64,7 +64,7 @@
         "wk:page":"G%C3%BCrcuva"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"0abd7d006bc59c09a7074ce2864c1ea1",
+    "wof:geomhash":"e7e7f6ed4da8c98a578ea88ce3eb779f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -90,5 +90,5 @@
     47.48465,
     40.61904000000001
 ],
-  "geometry": {"coordinates":[47.48465,40.61904000000001],"type":"Point"}
+  "geometry": {"coordinates":[47.48465,40.61904],"type":"Point"}
 }

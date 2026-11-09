@@ -61,7 +61,7 @@
         "wk:page":"%C3%87obanabdall%C4%B1"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"d11a0b4315f7aac81330bedb332834c6",
+    "wof:geomhash":"4df43afbf429af746a27f542bb7e728c",
     "wof:hierarchy":[
         {
             "country_id":85632717,
@@ -84,5 +84,5 @@
     46.43447000000001,
     40.75269
 ],
-  "geometry": {"coordinates":[46.43447000000001,40.75269],"type":"Point"}
+  "geometry": {"coordinates":[46.43447,40.75269],"type":"Point"}
 }

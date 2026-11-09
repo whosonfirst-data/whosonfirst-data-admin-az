@@ -63,7 +63,7 @@
         "wk:page":"K%C3%B6hn%C9%99qala"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"54c1d69115d8a8493362f55ee8461537",
+    "wof:geomhash":"ecf80b3ee313196bff2679fa70a827ec",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,5 +89,5 @@
     45.75964000000001,
     40.89385
 ],
-  "geometry": {"coordinates":[45.75964000000001,40.89385],"type":"Point"}
+  "geometry": {"coordinates":[45.75964,40.89385],"type":"Point"}
 }

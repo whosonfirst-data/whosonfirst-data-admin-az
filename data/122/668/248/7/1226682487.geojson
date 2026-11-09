@@ -63,7 +63,7 @@
         "wk:page":"A%C4%9Fba%C5%9Flar"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"da99dfb3d558a896d23de75b975db4fe",
+    "wof:geomhash":"5f56d60528625ebef3b7236de842c01a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,5 +89,5 @@
     45.65779000000001,
     40.64732
 ],
-  "geometry": {"coordinates":[45.65779000000001,40.64732],"type":"Point"}
+  "geometry": {"coordinates":[45.65779,40.64732],"type":"Point"}
 }

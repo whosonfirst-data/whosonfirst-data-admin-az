@@ -66,7 +66,7 @@
         "wk:page":"%C6%8Fliyar"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"11c2530674390e64119dbdd9cadcd39f",
+    "wof:geomhash":"3bb63a88523f11dc7aed1451bfd3adab",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,5 +92,5 @@
     47.25314,
     41.00624000000001
 ],
-  "geometry": {"coordinates":[47.25314,41.00624000000001],"type":"Point"}
+  "geometry": {"coordinates":[47.25314,41.00624],"type":"Point"}
 }

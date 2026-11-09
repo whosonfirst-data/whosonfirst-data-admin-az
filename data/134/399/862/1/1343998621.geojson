@@ -43,7 +43,7 @@
         "wk:page":"Khachaparakh"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"a613ae7f222da18151b5e85c9d63a07e",
+    "wof:geomhash":"114493bd9cdc684b3b9d834cb0c6164d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -69,5 +69,5 @@
     45.58479000000001,
     39.19902
 ],
-  "geometry": {"coordinates":[45.58479000000001,39.19902],"type":"Point"}
+  "geometry": {"coordinates":[45.58479,39.19902],"type":"Point"}
 }

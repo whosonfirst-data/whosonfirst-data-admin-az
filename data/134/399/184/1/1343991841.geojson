@@ -54,7 +54,7 @@
         "wk:page":"Bayandurlu"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"46a8057a2424880053ae4a7271f9e713",
+    "wof:geomhash":"56522ddce15dd52f78bf9d7515450c35",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     46.98777000000001,
     40.44249
 ],
-  "geometry": {"coordinates":[46.98777000000001,40.44249],"type":"Point"}
+  "geometry": {"coordinates":[46.98777,40.44249],"type":"Point"}
 }

@@ -71,7 +71,7 @@
         "wk:page":"O%C4%9Flanqala"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"3fee42635f1bc5cbd98737737b438a97",
+    "wof:geomhash":"a0e303626001240dc3ed88abb46bdd5c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -99,5 +99,5 @@
     45.04611,
     39.58694000000001
 ],
-  "geometry": {"coordinates":[45.04611,39.58694000000001],"type":"Point"}
+  "geometry": {"coordinates":[45.04611,39.58694],"type":"Point"}
 }

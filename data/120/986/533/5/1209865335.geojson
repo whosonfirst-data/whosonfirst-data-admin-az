@@ -60,7 +60,7 @@
         "wk:page":"Q%C4%B1z%C4%B1la%C4%9Fac%2C_Masally"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"35e4e8a9a5c1c802c29652834a0fee0b",
+    "wof:geomhash":"f53d8f0a61d3358bf836556d485723ef",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,5 +86,5 @@
     48.81100000000001,
     39.03726
 ],
-  "geometry": {"coordinates":[48.81100000000001,39.03726],"type":"Point"}
+  "geometry": {"coordinates":[48.811,39.03726],"type":"Point"}
 }

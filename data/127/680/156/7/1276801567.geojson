@@ -66,7 +66,7 @@
         "wk:page":"Arpag%C9%99dik"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"77d0b53abd1e6f3cfaf9570c92288893",
+    "wof:geomhash":"3ef6865849ac90f5e56df9540fc54a0a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,5 +92,5 @@
     46.70532,
     39.55889000000001
 ],
-  "geometry": {"coordinates":[46.70532,39.55889000000001],"type":"Point"}
+  "geometry": {"coordinates":[46.70532,39.55889],"type":"Point"}
 }

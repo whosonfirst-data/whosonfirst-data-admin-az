@@ -78,7 +78,7 @@
         "wk:page":"Amirvan"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"181a08ab6faebfea08ca914ae14a10ca",
+    "wof:geomhash":"2f71b4f435bc64b88fae42e8a9215b84",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,5 +104,5 @@
     47.89555,
     40.83094000000001
 ],
-  "geometry": {"coordinates":[47.89555,40.83094000000001],"type":"Point"}
+  "geometry": {"coordinates":[47.89555,40.83094],"type":"Point"}
 }

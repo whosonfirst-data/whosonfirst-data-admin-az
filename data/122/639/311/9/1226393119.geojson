@@ -55,7 +55,7 @@
         "wk:page":"Yuxar%C4%B1_Apu"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"5bdd3f270d86567650781983af33bb94",
+    "wof:geomhash":"72886b751ccc637208487e83b4dbb69f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,5 +81,5 @@
     48.72600000000001,
     38.66637
 ],
-  "geometry": {"coordinates":[48.72600000000001,38.66637],"type":"Point"}
+  "geometry": {"coordinates":[48.726,38.66637],"type":"Point"}
 }

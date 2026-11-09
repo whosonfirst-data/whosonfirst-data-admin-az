@@ -73,7 +73,7 @@
         "wk:page":"H%C3%BCseynli"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"875559c3680f41847840194f20246ddb",
+    "wof:geomhash":"6ead5cd8de943d5e6c2c5ec041cb3df7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -99,5 +99,5 @@
     47.08434000000001,
     40.21279000000001
 ],
-  "geometry": {"coordinates":[47.08434000000001,40.21279000000001],"type":"Point"}
+  "geometry": {"coordinates":[47.08434,40.21279],"type":"Point"}
 }

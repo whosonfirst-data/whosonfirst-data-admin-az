@@ -57,7 +57,7 @@
         "wk:page":"Davudlu%2C_Qubadli"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"9f321b488bc97323648b6de6fccc029c",
+    "wof:geomhash":"304e527cfe88a0b946d8603c2ec3c617",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     46.42789000000001,
     39.44009000000001
 ],
-  "geometry": {"coordinates":[46.42789000000001,39.44009000000001],"type":"Point"}
+  "geometry": {"coordinates":[46.42789,39.44009],"type":"Point"}
 }

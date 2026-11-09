@@ -60,7 +60,7 @@
         "wk:page":"D%C9%99d%C9%99_Qorqud"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"7898b0e99d75684aef23e6b0c5fd5624",
+    "wof:geomhash":"804d1390cf1d44d86141724b6a2bfce2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,5 +86,5 @@
     48.39174000000001,
     39.86804
 ],
-  "geometry": {"coordinates":[48.39174000000001,39.86804],"type":"Point"}
+  "geometry": {"coordinates":[48.39174,39.86804],"type":"Point"}
 }

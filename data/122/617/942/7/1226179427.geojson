@@ -60,7 +60,7 @@
         "wk:page":"%C4%B0spik"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"df1115f50b3fc4f1cc9188fb26b9307c",
+    "wof:geomhash":"93cc03218d99ecf883e5c4f440e7bdca",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,5 +86,5 @@
     48.41215,
     41.30889000000001
 ],
-  "geometry": {"coordinates":[48.41215,41.30889000000001],"type":"Point"}
+  "geometry": {"coordinates":[48.41215,41.30889],"type":"Point"}
 }

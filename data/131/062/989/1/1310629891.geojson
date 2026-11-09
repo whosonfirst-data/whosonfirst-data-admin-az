@@ -72,7 +72,7 @@
         "wk:page":"Birinci_N%C3%BCg%C9%99di"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"f12cebcd5ab04a7495c262aa8c6702f9",
+    "wof:geomhash":"27c32a11f25dee9118c13daf1f7b278a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,5 +98,5 @@
     48.56274000000001,
     41.32422
 ],
-  "geometry": {"coordinates":[48.56274000000001,41.32422],"type":"Point"}
+  "geometry": {"coordinates":[48.56274,41.32422],"type":"Point"}
 }

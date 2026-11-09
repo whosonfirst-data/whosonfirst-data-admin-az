@@ -57,7 +57,7 @@
         "wk:page":"Maz%C4%B1m%C3%A7ay"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"eaf1f141af7b1e864061edb256d27eef",
+    "wof:geomhash":"5e16b357a8b51d1b9fa827f9319ede37",
     "wof:hierarchy":[
         {
             "country_id":85632717,
@@ -80,5 +80,5 @@
     46.33896,
     41.80289000000001
 ],
-  "geometry": {"coordinates":[46.33896,41.80289000000001],"type":"Point"}
+  "geometry": {"coordinates":[46.33896,41.80289],"type":"Point"}
 }

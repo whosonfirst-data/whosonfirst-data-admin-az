@@ -57,7 +57,7 @@
         "wk:page":"Sarygyuney"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"2d55d3ed1eb5713e6661671c47aca0ec",
+    "wof:geomhash":"5120ea50db212055df195e2717b12876",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     46.06145,
     40.15009000000001
 ],
-  "geometry": {"coordinates":[46.06145,40.15009000000001],"type":"Point"}
+  "geometry": {"coordinates":[46.06145,40.15009],"type":"Point"}
 }

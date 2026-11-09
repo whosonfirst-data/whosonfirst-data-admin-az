@@ -64,7 +64,7 @@
         "wk:page":"Te%C5%9Fkan"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"9f8928399e0ee068d03b5ca134f4f406",
+    "wof:geomhash":"4ae165c7f18da644bd458ed6cfad10e5",
     "wof:hierarchy":[
         {
             "country_id":85632717,
@@ -87,5 +87,5 @@
     48.43487,
     38.91569000000001
 ],
-  "geometry": {"coordinates":[48.43487,38.91569000000001],"type":"Point"}
+  "geometry": {"coordinates":[48.43487,38.91569],"type":"Point"}
 }

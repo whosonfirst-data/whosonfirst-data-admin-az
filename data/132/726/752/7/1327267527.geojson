@@ -66,7 +66,7 @@
         "wk:page":"Bozayran"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"a04575deb650ebd7409c793687cb5d27",
+    "wof:geomhash":"805ac7328989315ebed912121139851e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,5 +92,5 @@
     48.25604000000001,
     38.89446
 ],
-  "geometry": {"coordinates":[48.25604000000001,38.89446],"type":"Point"}
+  "geometry": {"coordinates":[48.25604,38.89446],"type":"Point"}
 }

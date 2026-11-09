@@ -63,7 +63,7 @@
         "wk:page":"Ballar"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"82b812bba17b50015fa24998fb7baa85",
+    "wof:geomhash":"8bfa658f178721e743654664c4f055d7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,5 +89,5 @@
     47.10455,
     40.10064000000001
 ],
-  "geometry": {"coordinates":[47.10455,40.10064000000001],"type":"Point"}
+  "geometry": {"coordinates":[47.10455,40.10064],"type":"Point"}
 }

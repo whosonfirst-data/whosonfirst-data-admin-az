@@ -47,7 +47,7 @@
         "wk:page":"G%C3%B6d%C9%99kl%C9%99r%2C_Qubadli"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"a63548ae871c7aa1992ce2864a291842",
+    "wof:geomhash":"4ba7868c2220fa8bd7caaeb0d025f0c0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,5 +73,5 @@
     46.60184,
     39.32944000000001
 ],
-  "geometry": {"coordinates":[46.60184,39.32944000000001],"type":"Point"}
+  "geometry": {"coordinates":[46.60184,39.32944],"type":"Point"}
 }

@@ -72,7 +72,7 @@
         "wk:page":"Asxanak%C9%99ran"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"802ab0b077876043f36268399641b64c",
+    "wof:geomhash":"550e9696d96d803248f5612acf26710a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,5 +98,5 @@
     48.62497000000001,
     38.57282
 ],
-  "geometry": {"coordinates":[48.62497000000001,38.57282],"type":"Point"}
+  "geometry": {"coordinates":[48.62497,38.57282],"type":"Point"}
 }

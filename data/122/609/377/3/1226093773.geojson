@@ -38,7 +38,7 @@
         "wk:page":"Aglykh"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"81dc4c900222218957fbce9ba8368052",
+    "wof:geomhash":"67b544fb88d2a3ede8e5c3e44a168cd9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -64,5 +64,5 @@
     47.53749000000001,
     41.14657
 ],
-  "geometry": {"coordinates":[47.53749000000001,41.14657],"type":"Point"}
+  "geometry": {"coordinates":[47.53749,41.14657],"type":"Point"}
 }

@@ -66,7 +66,7 @@
         "wk:page":"Xocik"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"70680290579dcf1edc53f70036f1e757",
+    "wof:geomhash":"e2fe1472d85f795f4c3b88f3f5082927",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,5 +92,5 @@
     46.68249,
     39.35129000000001
 ],
-  "geometry": {"coordinates":[46.68249,39.35129000000001],"type":"Point"}
+  "geometry": {"coordinates":[46.68249,39.35129],"type":"Point"}
 }

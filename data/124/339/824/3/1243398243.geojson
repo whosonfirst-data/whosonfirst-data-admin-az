@@ -66,7 +66,7 @@
         "wk:page":"H%C9%99s%C9%99nqala%2C_Qusar"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"451656bf5910e09f5dfb9ec58da17650",
+    "wof:geomhash":"59e5f2c0613781806dd043cabb7f0898",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,5 +92,5 @@
     48.50899999999999,
     41.45136
 ],
-  "geometry": {"coordinates":[48.50899999999999,41.45136],"type":"Point"}
+  "geometry": {"coordinates":[48.509,41.45136],"type":"Point"}
 }

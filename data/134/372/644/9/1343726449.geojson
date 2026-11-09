@@ -61,7 +61,7 @@
         "wk:page":"Cinli_Zeynall%C4%B1"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"669f1b2d785bfd7519a27bc657ff97e9",
+    "wof:geomhash":"6364f7a70f757385d57c8a0f88da65eb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,5 +87,5 @@
     46.82429000000001,
     40.60331
 ],
-  "geometry": {"coordinates":[46.82429000000001,40.60331],"type":"Point"}
+  "geometry": {"coordinates":[46.82429,40.60331],"type":"Point"}
 }

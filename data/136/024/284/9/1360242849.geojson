@@ -69,7 +69,7 @@
         "wk:page":"Sar%C4%B1xanl%C4%B1"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"083dbb8c01582550c7e43c9eaafac1b6",
+    "wof:geomhash":"261f9fc90a11f0915494fdb35a0dc5df",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,5 +95,5 @@
     47.92274000000001,
     39.82315
 ],
-  "geometry": {"coordinates":[47.92274000000001,39.82315],"type":"Point"}
+  "geometry": {"coordinates":[47.92274,39.82315],"type":"Point"}
 }

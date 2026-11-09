@@ -68,7 +68,7 @@
         "wk:page":"Deman"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"7a86320beb1b58e012d9f45666d89452",
+    "wof:geomhash":"3006f6bd8b1c6276f5d33635e3f5aa70",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -94,5 +94,5 @@
     48.03964000000001,
     38.86317
 ],
-  "geometry": {"coordinates":[48.03964000000001,38.86317],"type":"Point"}
+  "geometry": {"coordinates":[48.03964,38.86317],"type":"Point"}
 }

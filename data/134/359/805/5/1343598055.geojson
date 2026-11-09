@@ -61,7 +61,7 @@
         "wk:page":"G%C3%BCv%C9%99ndik"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"2e0d07a0eaeae7b95b25556e00f25537",
+    "wof:geomhash":"0287f14eba3d5e1a9061e088f93e6828",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,5 +87,5 @@
     45.58871,
     40.66719000000001
 ],
-  "geometry": {"coordinates":[45.58871,40.66719000000001],"type":"Point"}
+  "geometry": {"coordinates":[45.58871,40.66719],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Dzhafarkuluushagy"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"d2b880df35b683350017d7125d4c9661",
+    "wof:geomhash":"94393cae9350ec47f460aee54a8dfb27",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     46.65141,
     39.16719000000001
 ],
-  "geometry": {"coordinates":[46.65141,39.16719000000001],"type":"Point"}
+  "geometry": {"coordinates":[46.65141,39.16719],"type":"Point"}
 }

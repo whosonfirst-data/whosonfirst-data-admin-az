@@ -54,7 +54,7 @@
         "wk:page":"A%C5%9Fa%C4%9F%C4%B1_%C5%9Eurtan"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"7e2e61cf7ef03999ffd201fe338dc7f6",
+    "wof:geomhash":"799dc1eefd6e5e0a325d2fa5dcc47af5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     45.97688,
     40.00559000000001
 ],
-  "geometry": {"coordinates":[45.97688,40.00559000000001],"type":"Point"}
+  "geometry": {"coordinates":[45.97688,40.00559],"type":"Point"}
 }

@@ -79,7 +79,7 @@
         "wk:page":"Abdulabad"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"25ca8c61401e2fea94a862e50ad1e809",
+    "wof:geomhash":"7fc1d7f8d33f5e298bdab4b08542d8b5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -105,5 +105,5 @@
     48.65884000000001,
     40.09535
 ],
-  "geometry": {"coordinates":[48.65884000000001,40.09535],"type":"Point"}
+  "geometry": {"coordinates":[48.65884,40.09535],"type":"Point"}
 }

@@ -58,7 +58,7 @@
         "wk:page":"Molalan%2C_Lerik"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"fb8285f2af7cbcee776361a7f0fc10c2",
+    "wof:geomhash":"1523286832183c5b121adb237c811ae7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,5 +84,5 @@
     48.37889000000001,
     38.8475
 ],
-  "geometry": {"coordinates":[48.37889000000001,38.8475],"type":"Point"}
+  "geometry": {"coordinates":[48.37889,38.8475],"type":"Point"}
 }

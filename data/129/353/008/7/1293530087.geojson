@@ -62,7 +62,7 @@
         "wk:page":"Qaraqala"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"def0f694e2584ca70a458cabb20c6ee5",
+    "wof:geomhash":"57e22a44ba05c05a8d1dce19baaf0e3d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,5 +88,5 @@
     45.47134000000001,
     39.29251
 ],
-  "geometry": {"coordinates":[45.47134000000001,39.29251],"type":"Point"}
+  "geometry": {"coordinates":[45.47134,39.29251],"type":"Point"}
 }

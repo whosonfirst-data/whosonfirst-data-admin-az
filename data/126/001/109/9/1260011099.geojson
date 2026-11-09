@@ -75,7 +75,7 @@
         "wk:page":"Maraga%2C_Azerbaijan"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"fe9134087afb91ad78488a35a4fdc379",
+    "wof:geomhash":"d3bfcced91f91eefb2baf252fae3a018",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,5 +101,5 @@
     46.88267000000001,
     40.32081
 ],
-  "geometry": {"coordinates":[46.88267000000001,40.32081],"type":"Point"}
+  "geometry": {"coordinates":[46.88267,40.32081],"type":"Point"}
 }

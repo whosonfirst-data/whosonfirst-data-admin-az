@@ -84,7 +84,7 @@
         "wk:page":"Almal%C4%B1%2C_Khojaly"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"2a99b112f3e4763237d1b314f46ac611",
+    "wof:geomhash":"03e7480e9a4699ddc5d3eb8fd4944773",
     "wof:hierarchy":[
         {
             "country_id":85632717,
@@ -107,5 +107,5 @@
     46.68691,
     39.97049000000001
 ],
-  "geometry": {"coordinates":[46.68691,39.97049000000001],"type":"Point"}
+  "geometry": {"coordinates":[46.68691,39.97049],"type":"Point"}
 }

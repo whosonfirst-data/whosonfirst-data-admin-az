@@ -61,7 +61,7 @@
         "wk:page":"%C3%9C%C3%A7%C3%BCnc%C3%BC_Beyn%C9%99lmil%C9%99l"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"7177eff2df9cbb793e727acc99fbcde2",
+    "wof:geomhash":"8f7825e6c35d1933ef058246cf41bc3b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,5 +87,5 @@
     46.08336,
     40.83544000000001
 ],
-  "geometry": {"coordinates":[46.08336,40.83544000000001],"type":"Point"}
+  "geometry": {"coordinates":[46.08336,40.83544],"type":"Point"}
 }

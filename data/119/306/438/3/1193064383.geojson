@@ -93,7 +93,7 @@
         "wk:page":"Yuxar%C4%B1_%C6%8Fylis"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"14371700e57efb065d8796fa86079000",
+    "wof:geomhash":"96dc26a10a1d3d2d77cde4f765a59d59",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -119,5 +119,5 @@
     45.98192,
     38.95314000000001
 ],
-  "geometry": {"coordinates":[45.98192,38.95314000000001],"type":"Point"}
+  "geometry": {"coordinates":[45.98192,38.95314],"type":"Point"}
 }

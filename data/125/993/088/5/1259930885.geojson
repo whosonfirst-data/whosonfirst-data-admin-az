@@ -45,7 +45,7 @@
         "wk:page":"Tatova"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"56107ba47cd05f96ff9060e1a1f63ad9",
+    "wof:geomhash":"2cb1767e4af5639d1bd963782ce999da",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,5 +71,5 @@
     48.77914000000001,
     38.82852000000001
 ],
-  "geometry": {"coordinates":[48.77914000000001,38.82852000000001],"type":"Point"}
+  "geometry": {"coordinates":[48.77914,38.82852],"type":"Point"}
 }

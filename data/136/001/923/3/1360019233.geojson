@@ -47,7 +47,7 @@
         "wk:page":"Qala%C4%9Fay%C4%B1n"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"e5d84cdca6b2e509f70851a6e27f901e",
+    "wof:geomhash":"bd92515023d5ac04316f7bf9a254b1f2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,5 +73,5 @@
     48.47962,
     39.98119000000001
 ],
-  "geometry": {"coordinates":[48.47962,39.98119000000001],"type":"Point"}
+  "geometry": {"coordinates":[48.47962,39.98119],"type":"Point"}
 }

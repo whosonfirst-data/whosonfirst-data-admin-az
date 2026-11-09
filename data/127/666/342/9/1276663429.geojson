@@ -61,7 +61,7 @@
         "wk:page":"Bulaqota%C4%9F%C4%B1"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"3463d16378e295b1191d4b19f1b94615",
+    "wof:geomhash":"bc3bca896a884b060d20cf9d696ad72d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,5 +87,5 @@
     47.52784000000001,
     40.66258
 ],
-  "geometry": {"coordinates":[47.52784000000001,40.66258],"type":"Point"}
+  "geometry": {"coordinates":[47.52784,40.66258],"type":"Point"}
 }

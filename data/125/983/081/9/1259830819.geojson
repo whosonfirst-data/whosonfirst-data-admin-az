@@ -81,7 +81,7 @@
         "wk:page":"%C4%B0kinci_%C5%9E%C4%B1xl%C4%B1"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"ee8c00605d10af174ac1c3c207d3f022",
+    "wof:geomhash":"b9cd761c5a71b033ad7ac7a25608ab7e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,5 +107,5 @@
     45.10104000000001,
     41.31033
 ],
-  "geometry": {"coordinates":[45.10104000000001,41.31033],"type":"Point"}
+  "geometry": {"coordinates":[45.10104,41.31033],"type":"Point"}
 }

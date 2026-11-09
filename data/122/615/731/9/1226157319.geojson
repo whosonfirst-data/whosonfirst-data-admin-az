@@ -83,7 +83,7 @@
         "wk:page":"Novxan%C4%B1"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"02a4b1a380503a8ac5d5f24eb7078916",
+    "wof:geomhash":"9a09adab2b07888307647c8e7ff40f5d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -109,5 +109,5 @@
     49.78188,
     40.52914000000001
 ],
-  "geometry": {"coordinates":[49.78188,40.52914000000001],"type":"Point"}
+  "geometry": {"coordinates":[49.78188,40.52914],"type":"Point"}
 }

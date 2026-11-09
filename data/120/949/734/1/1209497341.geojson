@@ -60,7 +60,7 @@
         "wk:page":"Gurbulaq"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"cf450760ed6c0b275b35117abcd1e1d1",
+    "wof:geomhash":"d1ee11a6156a7b378359dadc923e44bf",
     "wof:hierarchy":[
         {
             "country_id":85632717,
@@ -83,5 +83,5 @@
     45.97583,
     40.52972000000001
 ],
-  "geometry": {"coordinates":[45.97583,40.52972000000001],"type":"Point"}
+  "geometry": {"coordinates":[45.97583,40.52972],"type":"Point"}
 }

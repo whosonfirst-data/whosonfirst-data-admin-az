@@ -69,7 +69,7 @@
         "wk:page":"Ke%C5%9Fxurt"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"8beb693c39dee82d0e852fa51dbc4bfd",
+    "wof:geomhash":"229480b92e8ba3db4c153c331e82e0c3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,5 +95,5 @@
     48.16589000000001,
     40.66194
 ],
-  "geometry": {"coordinates":[48.16589000000001,40.66194],"type":"Point"}
+  "geometry": {"coordinates":[48.16589,40.66194],"type":"Point"}
 }

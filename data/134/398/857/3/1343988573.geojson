@@ -54,7 +54,7 @@
         "wk:page":"Tinli%2C_Qubadli"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"1c22397a00c2ad1fe052007c3be17b9c",
+    "wof:geomhash":"25d1c0ff55b79c4e819b66d02d3e95f7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     46.71389,
     39.20164000000001
 ],
-  "geometry": {"coordinates":[46.71389,39.20164000000001],"type":"Point"}
+  "geometry": {"coordinates":[46.71389,39.20164],"type":"Point"}
 }

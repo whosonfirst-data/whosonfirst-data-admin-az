@@ -146,7 +146,7 @@
         "wk:page":"Qabala"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"06865e9028f076075c3389635bdcd422",
+    "wof:geomhash":"f5af10acba3001d27e96fa62035d974b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -172,5 +172,5 @@
     47.84583,
     40.98139000000001
 ],
-  "geometry": {"coordinates":[47.84583,40.98139000000001],"type":"Point"}
+  "geometry": {"coordinates":[47.84583,40.98139],"type":"Point"}
 }

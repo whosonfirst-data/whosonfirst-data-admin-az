@@ -51,7 +51,7 @@
         "wk:page":"%C4%B0kinci_Qaral%C4%B1"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"e0426bf558832166159331b032ce8a42",
+    "wof:geomhash":"8328747a4fb58645833a9fd6510aa4b7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     49.0325,
     39.45444000000001
 ],
-  "geometry": {"coordinates":[49.0325,39.45444000000001],"type":"Point"}
+  "geometry": {"coordinates":[49.0325,39.45444],"type":"Point"}
 }

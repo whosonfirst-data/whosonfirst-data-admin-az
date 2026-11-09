@@ -76,7 +76,7 @@
         "wk:page":"Quxuroba"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"3fe41de09b957fbb66f6969e8387ee7a",
+    "wof:geomhash":"187a6ea2981d64d1c48b259839773222",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -102,5 +102,5 @@
     48.53402,
     41.58434000000001
 ],
-  "geometry": {"coordinates":[48.53402,41.58434000000001],"type":"Point"}
+  "geometry": {"coordinates":[48.53402,41.58434],"type":"Point"}
 }

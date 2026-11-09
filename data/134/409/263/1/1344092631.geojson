@@ -60,7 +60,7 @@
         "wk:page":"Andurma"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"dca49b144858529852509e21172a8b66",
+    "wof:geomhash":"9fad8e852e74ac7f4aeef85796aa0da8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,5 +86,5 @@
     48.47029000000001,
     38.71215
 ],
-  "geometry": {"coordinates":[48.47029000000001,38.71215],"type":"Point"}
+  "geometry": {"coordinates":[48.47029,38.71215],"type":"Point"}
 }

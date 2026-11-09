@@ -60,7 +60,7 @@
         "wk:page":"Quzeyx%C4%B1rman"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"6b48dd3bc2c94924dda57b9e2636ed15",
+    "wof:geomhash":"41e8cbdf79f5899db637e8f362267c94",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,5 +86,5 @@
     47.03299000000001,
     39.73888
 ],
-  "geometry": {"coordinates":[47.03299000000001,39.73888],"type":"Point"}
+  "geometry": {"coordinates":[47.03299,39.73888],"type":"Point"}
 }

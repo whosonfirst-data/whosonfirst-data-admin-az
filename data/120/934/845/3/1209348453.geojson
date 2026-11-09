@@ -51,7 +51,7 @@
         "wk:page":"Barl%C4%B1"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"8e04ebcd72170d786d7f51b5407e0291",
+    "wof:geomhash":"34fd45839296c2d08a6effc0a9df97f9",
     "wof:hierarchy":[
         {
             "country_id":85632717,
@@ -74,5 +74,5 @@
     48.69574,
     41.39984000000001
 ],
-  "geometry": {"coordinates":[48.69574,41.39984000000001],"type":"Point"}
+  "geometry": {"coordinates":[48.69574,41.39984],"type":"Point"}
 }

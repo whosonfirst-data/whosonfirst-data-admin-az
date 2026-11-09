@@ -57,7 +57,7 @@
         "wk:page":"T%C3%BCy%C3%BCrbin%C9%99"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"fe3f78280ac6d381318b30067b440bc4",
+    "wof:geomhash":"bfe4ca57aa4250bec81c4d11869b13b4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     46.56161,
     41.62347000000001
 ],
-  "geometry": {"coordinates":[46.56161,41.62347000000001],"type":"Point"}
+  "geometry": {"coordinates":[46.56161,41.62347],"type":"Point"}
 }

@@ -69,7 +69,7 @@
         "wk:page":"Qafarl%C4%B1"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"c1b47a99329e1b408cf84604ef6c84d5",
+    "wof:geomhash":"f60cce7566a1a5e6072ab498fb04b60a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,5 +95,5 @@
     47.18709000000001,
     40.39644000000001
 ],
-  "geometry": {"coordinates":[47.18709000000001,40.39644000000001],"type":"Point"}
+  "geometry": {"coordinates":[47.18709,40.39644],"type":"Point"}
 }

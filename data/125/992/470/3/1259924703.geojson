@@ -43,7 +43,7 @@
         "wk:page":"Nigide"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"2bac8b825776032afb1547456fe72f09",
+    "wof:geomhash":"9e2fa86574819bf95547826535d85a9d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -69,5 +69,5 @@
     46.03333,
     39.0
 ],
-  "geometry": {"coordinates":[46.03333,39.0],"type":"Point"}
+  "geometry": {"coordinates":[46.03333,39],"type":"Point"}
 }

@@ -67,7 +67,7 @@
         "wk:page":"Miyanku"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"cb87494c40fc770a6d95050cc6f4b5f3",
+    "wof:geomhash":"663cfef1eb1bbcb876977d6755cfcdf1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -93,5 +93,5 @@
     48.66542000000001,
     38.89736
 ],
-  "geometry": {"coordinates":[48.66542000000001,38.89736],"type":"Point"}
+  "geometry": {"coordinates":[48.66542,38.89736],"type":"Point"}
 }

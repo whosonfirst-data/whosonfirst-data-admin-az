@@ -54,7 +54,7 @@
         "wk:page":"Tirk%C9%99%C5%9F%C9%99v%C9%99nd"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"2e721f577be575243142dc543919ace6",
+    "wof:geomhash":"ee409144bcca6bb47a30bcbd6aa0d9fd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     46.23982,
     39.99274000000001
 ],
-  "geometry": {"coordinates":[46.23982,39.99274000000001],"type":"Point"}
+  "geometry": {"coordinates":[46.23982,39.99274],"type":"Point"}
 }

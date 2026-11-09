@@ -66,7 +66,7 @@
         "wk:page":"P%C9%99rdili"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"acbb33f9200789cfc69ba9a9c601e7d7",
+    "wof:geomhash":"92420f41a4f46587b058037f0dd7aa38",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,5 +92,5 @@
     48.28704000000001,
     39.1839
 ],
-  "geometry": {"coordinates":[48.28704000000001,39.1839],"type":"Point"}
+  "geometry": {"coordinates":[48.28704,39.1839],"type":"Point"}
 }

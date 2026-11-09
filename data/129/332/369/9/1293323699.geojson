@@ -82,7 +82,7 @@
         "wk:page":"Umudlu%2C_Tartar"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"2faaa77aa6530aa9e3f8c21e2672b4c9",
+    "wof:geomhash":"6248bd912e99f68a9b04591a5408559a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -108,5 +108,5 @@
     46.59003,
     40.19159000000001
 ],
-  "geometry": {"coordinates":[46.59003,40.19159000000001],"type":"Point"}
+  "geometry": {"coordinates":[46.59003,40.19159],"type":"Point"}
 }

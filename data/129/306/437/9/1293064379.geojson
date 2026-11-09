@@ -75,7 +75,7 @@
         "wk:page":"D%C3%B6rt%C3%A7inar"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"cb226dd2ec0149c9ad011dd17fafd418",
+    "wof:geomhash":"7a92d1f69f64db4d9627b209e57c41fe",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,5 +101,5 @@
     47.21254,
     39.46214000000001
 ],
-  "geometry": {"coordinates":[47.21254,39.46214000000001],"type":"Point"}
+  "geometry": {"coordinates":[47.21254,39.46214],"type":"Point"}
 }

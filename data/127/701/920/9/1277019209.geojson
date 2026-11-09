@@ -45,7 +45,7 @@
         "wk:page":"Murya"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"cb48162076045007bb67768ad434a46d",
+    "wof:geomhash":"4b23094ee8dd17343d1c3665b4106efe",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,5 +71,5 @@
     48.40600000000001,
     38.83298
 ],
-  "geometry": {"coordinates":[48.40600000000001,38.83298],"type":"Point"}
+  "geometry": {"coordinates":[48.406,38.83298],"type":"Point"}
 }

@@ -64,7 +64,7 @@
         "wk:page":"Ki%C3%A7ik_Alat%C9%99mir"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"0a0cc9c5f6b5bf81a119be70c20bb5cc",
+    "wof:geomhash":"a63e0aed89fc85a082bcf3a5499098ac",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -90,5 +90,5 @@
     46.82668,
     41.40472000000001
 ],
-  "geometry": {"coordinates":[46.82668,41.40472000000001],"type":"Point"}
+  "geometry": {"coordinates":[46.82668,41.40472],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Qaraba%C4%9Fl%C4%B1lar"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"b0c3a7a22854f25c1fd4f9f503c1d497",
+    "wof:geomhash":"148ef1387feab8eb667bdf14a7983b1f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     45.67108,
     40.73014000000001
 ],
-  "geometry": {"coordinates":[45.67108,40.73014000000001],"type":"Point"}
+  "geometry": {"coordinates":[45.67108,40.73014],"type":"Point"}
 }

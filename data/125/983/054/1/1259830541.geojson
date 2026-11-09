@@ -67,7 +67,7 @@
         "wk:page":"Nari%C5%9Flar"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"6e7080c754725dc7286383912d9d55db",
+    "wof:geomhash":"924c7a9f7697ea50f83858ba278af85c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -93,5 +93,5 @@
     46.30038,
     39.80824000000001
 ],
-  "geometry": {"coordinates":[46.30038,39.80824000000001],"type":"Point"}
+  "geometry": {"coordinates":[46.30038,39.80824],"type":"Point"}
 }

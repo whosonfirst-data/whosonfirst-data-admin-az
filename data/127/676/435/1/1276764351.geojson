@@ -64,7 +64,7 @@
         "wk:page":"Kolq%C4%B1%C5%9Flaq"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"ea0c437f427f7ee32805164d018421f4",
+    "wof:geomhash":"c82837b7fc61944834e20a0dc47455f3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -90,5 +90,5 @@
     47.06144000000001,
     40.12763
 ],
-  "geometry": {"coordinates":[47.06144000000001,40.12763],"type":"Point"}
+  "geometry": {"coordinates":[47.06144,40.12763],"type":"Point"}
 }

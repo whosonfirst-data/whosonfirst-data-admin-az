@@ -48,7 +48,7 @@
         "wk:page":"Kelenly"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"b03e941d4284e8882e39b26b65f6602a",
+    "wof:geomhash":"5c2ce9fcc1a110be6c24e11fc3417b07",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     48.79972,
     40.26694000000001
 ],
-  "geometry": {"coordinates":[48.79972,40.26694000000001],"type":"Point"}
+  "geometry": {"coordinates":[48.79972,40.26694],"type":"Point"}
 }

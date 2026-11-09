@@ -61,7 +61,7 @@
         "wk:page":"%C4%B0kinci_Alxasava"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"cba1f9c12946f506e927f1d191f23d5c",
+    "wof:geomhash":"bd14a1f9b3adb8eb045f6d69e33643d2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,5 +87,5 @@
     47.96684000000001,
     40.56799
 ],
-  "geometry": {"coordinates":[47.96684000000001,40.56799],"type":"Point"}
+  "geometry": {"coordinates":[47.96684,40.56799],"type":"Point"}
 }

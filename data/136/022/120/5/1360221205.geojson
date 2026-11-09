@@ -82,7 +82,7 @@
         "wk:page":"Avdur"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"b8d0b4000f96797362fbda7b5ca1f18f",
+    "wof:geomhash":"fb3c59635985e34bc684cf257be06ad3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -108,5 +108,5 @@
     46.93944000000001,
     39.84389
 ],
-  "geometry": {"coordinates":[46.93944000000001,39.84389],"type":"Point"}
+  "geometry": {"coordinates":[46.93944,39.84389],"type":"Point"}
 }

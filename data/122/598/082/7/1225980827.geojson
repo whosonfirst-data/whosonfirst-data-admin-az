@@ -82,7 +82,7 @@
         "wk:page":"Qara%C3%A7uq"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"9e1eeae7e231a71a6fba71cc761277a0",
+    "wof:geomhash":"fc6da0c931ca6afcecc6b94d0f2b3fd4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -108,5 +108,5 @@
     45.37732000000001,
     39.19067
 ],
-  "geometry": {"coordinates":[45.37732000000001,39.19067],"type":"Point"}
+  "geometry": {"coordinates":[45.37732,39.19067],"type":"Point"}
 }

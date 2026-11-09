@@ -60,7 +60,7 @@
         "wk:page":"Mamqabin%C9%99"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"480a4166f5f2592c7dd73f1d795d540d",
+    "wof:geomhash":"491fb1e8071a4005f3020f35e067ff58",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,5 +86,5 @@
     46.52007,
     41.55954000000001
 ],
-  "geometry": {"coordinates":[46.52007,41.55954000000001],"type":"Point"}
+  "geometry": {"coordinates":[46.52007,41.55954],"type":"Point"}
 }

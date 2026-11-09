@@ -69,7 +69,7 @@
         "wk:page":"Pir%C9%99z%C9%99"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"335017a4177c5c9d6f4dc580f1199e15",
+    "wof:geomhash":"69dfda8d3e346c1428fc0048caba7a27",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,5 +95,5 @@
     47.34633,
     40.41307000000001
 ],
-  "geometry": {"coordinates":[47.34633,40.41307000000001],"type":"Point"}
+  "geometry": {"coordinates":[47.34633,40.41307],"type":"Point"}
 }

@@ -75,7 +75,7 @@
         "wk:page":"Maqov"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"8ee28a3eb4625b4884c27ce164bdbf4c",
+    "wof:geomhash":"d6a0f0ae5f86663b34233e6f2ade0085",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,5 +101,5 @@
     46.49973,
     41.59269000000001
 ],
-  "geometry": {"coordinates":[46.49973,41.59269000000001],"type":"Point"}
+  "geometry": {"coordinates":[46.49973,41.59269],"type":"Point"}
 }

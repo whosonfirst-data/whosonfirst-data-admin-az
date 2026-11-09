@@ -64,7 +64,7 @@
         "wk:page":"Zar%C4%B1sl%C4%B1"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"eca4a2c4ca9f6a1d1242c0bb37217b71",
+    "wof:geomhash":"2189700449022fcf895c97f255be2280",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -90,5 +90,5 @@
     46.67767,
     39.71769000000001
 ],
-  "geometry": {"coordinates":[46.67767,39.71769000000001],"type":"Point"}
+  "geometry": {"coordinates":[46.67767,39.71769],"type":"Point"}
 }

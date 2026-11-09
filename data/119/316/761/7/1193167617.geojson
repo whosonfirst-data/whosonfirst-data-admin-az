@@ -63,7 +63,7 @@
         "wk:page":"Baqqall%C4%B1"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"bba0b64b7fb79c698fffa132580bffd3",
+    "wof:geomhash":"02171472bb12d9af5210273bc5a7d438",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,5 +89,5 @@
     45.61467,
     40.73569000000001
 ],
-  "geometry": {"coordinates":[45.61467,40.73569000000001],"type":"Point"}
+  "geometry": {"coordinates":[45.61467,40.73569],"type":"Point"}
 }

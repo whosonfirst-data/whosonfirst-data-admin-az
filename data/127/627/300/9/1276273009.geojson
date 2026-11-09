@@ -66,7 +66,7 @@
         "wk:page":"Ki%C3%A7ik_Amili"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"cdd59139ca1547c6a81ada0adc57d756",
+    "wof:geomhash":"1147e237ea31498000e3b98ce49fa5bd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,5 +92,5 @@
     47.78534000000001,
     40.84781
 ],
-  "geometry": {"coordinates":[47.78534000000001,40.84781],"type":"Point"}
+  "geometry": {"coordinates":[47.78534,40.84781],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Qo%C5%9Faq%C4%B1%C5%9Flaq"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"6927bf7ec1b162a0686088443b28b6e0",
+    "wof:geomhash":"2c945b6b7daab94f8bb6d08ba736feae",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     50.26212,
     40.42489000000001
 ],
-  "geometry": {"coordinates":[50.26212,40.42489000000001],"type":"Point"}
+  "geometry": {"coordinates":[50.26212,40.42489],"type":"Point"}
 }

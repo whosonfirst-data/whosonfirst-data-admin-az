@@ -75,7 +75,7 @@
         "wk:page":"Acaxur"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"a45e0827ffe7d89b66b7ebff13eed46c",
+    "wof:geomhash":"3c992d11cc447702bec1c749a68dcbd5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,5 +101,5 @@
     48.18754000000001,
     41.45634
 ],
-  "geometry": {"coordinates":[48.18754000000001,41.45634],"type":"Point"}
+  "geometry": {"coordinates":[48.18754,41.45634],"type":"Point"}
 }

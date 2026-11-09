@@ -64,7 +64,7 @@
         "wk:page":"Ziyadl%C4%B1"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"feb784f5bf7bd850d6d459a798ccf2cf",
+    "wof:geomhash":"4ef88add445a09be13b1821d8c531343",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -90,5 +90,5 @@
     46.36127000000001,
     40.7676
 ],
-  "geometry": {"coordinates":[46.36127000000001,40.7676],"type":"Point"}
+  "geometry": {"coordinates":[46.36127,40.7676],"type":"Point"}
 }

@@ -84,7 +84,7 @@
         "wk:page":"Bazarkand%2C_Karabakh"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"429c3ac8eb2ba32215fdf32be18862b0",
+    "wof:geomhash":"b209ad3b86997dff12e2491665994dc2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,5 +110,5 @@
     46.58349000000001,
     40.05774
 ],
-  "geometry": {"coordinates":[46.58349000000001,40.05774],"type":"Point"}
+  "geometry": {"coordinates":[46.58349,40.05774],"type":"Point"}
 }

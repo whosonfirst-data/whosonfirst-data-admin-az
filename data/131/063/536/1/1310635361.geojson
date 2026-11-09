@@ -75,7 +75,7 @@
         "wk:page":"Qaratoba"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"4fe92fe24c9a0ee9a9e68043a318d9df",
+    "wof:geomhash":"0b6a9819c1f38efbf8fbe56867b5f0cd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,5 +101,5 @@
     48.55974000000001,
     41.71279000000001
 ],
-  "geometry": {"coordinates":[48.55974000000001,41.71279000000001],"type":"Point"}
+  "geometry": {"coordinates":[48.55974,41.71279],"type":"Point"}
 }

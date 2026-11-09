@@ -51,7 +51,7 @@
         "wk:page":"Kyurabazly"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"45b4b2db97f5d6ee106efd396b76a9c8",
+    "wof:geomhash":"746362d3a5590a2cf1fa4db42e76a348",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     48.20444000000001,
     39.78306
 ],
-  "geometry": {"coordinates":[48.20444000000001,39.78306],"type":"Point"}
+  "geometry": {"coordinates":[48.20444,39.78306],"type":"Point"}
 }

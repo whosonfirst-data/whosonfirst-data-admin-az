@@ -69,7 +69,7 @@
         "wk:page":"Ba%C4%9F%C3%A7ak%C3%BCrd"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"ccf3cf2dd1b7841cac3fe5420618a2c7",
+    "wof:geomhash":"543cc7987e35328b3ac22b0004c4ff9f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,5 +95,5 @@
     46.51039,
     40.73569000000001
 ],
-  "geometry": {"coordinates":[46.51039,40.73569000000001],"type":"Point"}
+  "geometry": {"coordinates":[46.51039,40.73569],"type":"Point"}
 }

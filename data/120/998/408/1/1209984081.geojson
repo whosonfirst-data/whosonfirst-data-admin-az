@@ -75,7 +75,7 @@
         "wk:page":"Ru%C5%9Fan"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"0def6339df83d000739cd176dec21ccb",
+    "wof:geomhash":"ee962fd31696ba1dcc8cf759bac56591",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,5 +101,5 @@
     47.99929,
     40.80269000000001
 ],
-  "geometry": {"coordinates":[47.99929,40.80269000000001],"type":"Point"}
+  "geometry": {"coordinates":[47.99929,40.80269],"type":"Point"}
 }

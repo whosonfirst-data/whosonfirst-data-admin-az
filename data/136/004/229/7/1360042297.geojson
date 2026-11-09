@@ -76,7 +76,7 @@
         "wk:page":"%C4%B0mar%C9%99t_Q%C9%99rv%C9%99nd"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"7e0ee810d0bd218f10d81858a92c32eb",
+    "wof:geomhash":"db959ba561787f966b34c5a4b12ae319",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -102,5 +102,5 @@
     46.43304000000001,
     40.16302
 ],
-  "geometry": {"coordinates":[46.43304000000001,40.16302],"type":"Point"}
+  "geometry": {"coordinates":[46.43304,40.16302],"type":"Point"}
 }

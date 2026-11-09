@@ -54,7 +54,7 @@
         "wk:page":"Mafruzly"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"405adf98092a6c2dc167d047bf0a6827",
+    "wof:geomhash":"9a2bae6045c1eb4f847c0a754d0ce25c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     47.00944000000001,
     40.19361
 ],
-  "geometry": {"coordinates":[47.00944000000001,40.19361],"type":"Point"}
+  "geometry": {"coordinates":[47.00944,40.19361],"type":"Point"}
 }

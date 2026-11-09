@@ -70,7 +70,7 @@
         "wk:page":"M%C9%99mm%C9%99drza_Diz%C9%99"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"7bb0b8172b5c3d713ce3f4c0841ca4f4",
+    "wof:geomhash":"582e30d1dc4c4fb3969ff6ce7292b0ec",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -96,5 +96,5 @@
     45.46037000000001,
     39.28989
 ],
-  "geometry": {"coordinates":[45.46037000000001,39.28989],"type":"Point"}
+  "geometry": {"coordinates":[45.46037,39.28989],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Yeni_Ya%C5%9Fma"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"140998feac80a7c9d0a62ae4131779e6",
+    "wof:geomhash":"89af6f1f93e8dd4d002f6ee0066efe57",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     49.47062,
     40.75559000000001
 ],
-  "geometry": {"coordinates":[49.47062,40.75559000000001],"type":"Point"}
+  "geometry": {"coordinates":[49.47062,40.75559],"type":"Point"}
 }

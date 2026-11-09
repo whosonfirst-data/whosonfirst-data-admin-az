@@ -63,7 +63,7 @@
         "wk:page":"Abbasb%C9%99yli"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"143c8d9d4ecd777bc22be98d3ab588eb",
+    "wof:geomhash":"ca1c344095f1a0a8c65ef7d68fbffb84",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,5 +89,5 @@
     45.19432000000001,
     41.08047
 ],
-  "geometry": {"coordinates":[45.19432000000001,41.08047],"type":"Point"}
+  "geometry": {"coordinates":[45.19432,41.08047],"type":"Point"}
 }

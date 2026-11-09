@@ -54,7 +54,7 @@
         "wk:page":"Babal%C4%B1%2C_Jalilabad"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"c648943d7fd94b1ed287452de9d64924",
+    "wof:geomhash":"ea5ba8b2663bd67de9fc2a0fed8d74c3",
     "wof:hierarchy":[
         {
             "country_id":85632717,
@@ -77,5 +77,5 @@
     48.33600000000001,
     39.24322
 ],
-  "geometry": {"coordinates":[48.33600000000001,39.24322],"type":"Point"}
+  "geometry": {"coordinates":[48.336,39.24322],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Nizhniy_Gyaduk"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"54bfa80325138f4f3c7f6cf154627978",
+    "wof:geomhash":"3a12310a00978539cee996d1431676bb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,5 +68,5 @@
     48.33933,
     38.61154000000001
 ],
-  "geometry": {"coordinates":[48.33933,38.61154000000001],"type":"Point"}
+  "geometry": {"coordinates":[48.33933,38.61154],"type":"Point"}
 }

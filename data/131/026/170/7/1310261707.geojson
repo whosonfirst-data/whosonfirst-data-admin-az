@@ -61,7 +61,7 @@
         "wk:page":"%C4%B0stibulaq"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"6c26f725a43de3be78343cd73c8c531b",
+    "wof:geomhash":"606dd7e2b3547b735b2bbcd750d3e4b2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,5 +87,5 @@
     46.04884000000001,
     40.17608
 ],
-  "geometry": {"coordinates":[46.04884000000001,40.17608],"type":"Point"}
+  "geometry": {"coordinates":[46.04884,40.17608],"type":"Point"}
 }

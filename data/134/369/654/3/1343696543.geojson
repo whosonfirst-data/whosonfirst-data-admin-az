@@ -67,7 +67,7 @@
         "wk:page":"Horonu"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"6ff342a43856d8dedc59de2525a710ff",
+    "wof:geomhash":"e760175b490111793fb31366004ad4e6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -93,5 +93,5 @@
     48.3914,
     38.94139000000001
 ],
-  "geometry": {"coordinates":[48.3914,38.94139000000001],"type":"Point"}
+  "geometry": {"coordinates":[48.3914,38.94139],"type":"Point"}
 }

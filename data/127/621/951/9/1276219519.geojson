@@ -66,7 +66,7 @@
         "wk:page":"Muradl%C4%B1%2C_Agsu"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"7456cbd4d1209e4077bcb2771155e0c3",
+    "wof:geomhash":"019b7e21f8d199fda06b6b342b66884e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,5 +92,5 @@
     48.34373,
     40.53449000000001
 ],
-  "geometry": {"coordinates":[48.34373,40.53449000000001],"type":"Point"}
+  "geometry": {"coordinates":[48.34373,40.53449],"type":"Point"}
 }

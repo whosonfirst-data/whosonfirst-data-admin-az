@@ -51,7 +51,7 @@
         "wk:page":"Dezdamesha"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"85e20e5ef2248ab21db6673b4848b69e",
+    "wof:geomhash":"5738794beebd0fbef44d074c6cbe753b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     48.81039000000001,
     38.63536
 ],
-  "geometry": {"coordinates":[48.81039000000001,38.63536],"type":"Point"}
+  "geometry": {"coordinates":[48.81039,38.63536],"type":"Point"}
 }

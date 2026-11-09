@@ -65,7 +65,7 @@
         "wk:page":"%C3%87eyilda%C4%9F"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"d83510a3037ff2c4089d3dce64927fcb",
+    "wof:geomhash":"79cfa21cfd920616b47c1b31805ac0cb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,5 +91,5 @@
     49.27849000000001,
     40.28248
 ],
-  "geometry": {"coordinates":[49.27849000000001,40.28248],"type":"Point"}
+  "geometry": {"coordinates":[49.27849,40.28248],"type":"Point"}
 }

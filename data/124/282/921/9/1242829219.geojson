@@ -59,7 +59,7 @@
         "wk:page":"N%C9%99cafal%C4%B1"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"e61f2f09a9f72f3a1737ab425670f4fe",
+    "wof:geomhash":"c4d5bb06d42a5b0614c78aceef294f90",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,5 +85,5 @@
     46.17339000000001,
     40.1441
 ],
-  "geometry": {"coordinates":[46.17339000000001,40.1441],"type":"Point"}
+  "geometry": {"coordinates":[46.17339,40.1441],"type":"Point"}
 }

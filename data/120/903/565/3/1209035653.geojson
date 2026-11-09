@@ -61,7 +61,7 @@
         "wk:page":"Moranl%C4%B1%2C_Sabirabad"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"ce8a9fc9e6495a7e3f05901766fc7506",
+    "wof:geomhash":"04301cfe6b20005aca6ef925f86fce3b",
     "wof:hierarchy":[
         {
             "country_id":85632717,
@@ -84,5 +84,5 @@
     48.73815,
     39.78684000000001
 ],
-  "geometry": {"coordinates":[48.73815,39.78684000000001],"type":"Point"}
+  "geometry": {"coordinates":[48.73815,39.78684],"type":"Point"}
 }

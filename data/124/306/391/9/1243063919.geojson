@@ -45,7 +45,7 @@
         "wk:page":"Kotal"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"5d2298c513b038beff3959fa486e67af",
+    "wof:geomhash":"f7baee2563a7c6412733bf3a3d247335",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,5 +71,5 @@
     49.43212,
     39.98477000000001
 ],
-  "geometry": {"coordinates":[49.43212,39.98477000000001],"type":"Point"}
+  "geometry": {"coordinates":[49.43212,39.98477],"type":"Point"}
 }

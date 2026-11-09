@@ -57,7 +57,7 @@
         "wk:page":"Axta%C3%A7%C4%B1_Mu%C4%9Fan"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"1e038693cc576cb79ea87bfe5a95524b",
+    "wof:geomhash":"8dd88010ecbbf167f6322eff69046b2f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     48.7175,
     40.01629000000001
 ],
-  "geometry": {"coordinates":[48.7175,40.01629000000001],"type":"Point"}
+  "geometry": {"coordinates":[48.7175,40.01629],"type":"Point"}
 }

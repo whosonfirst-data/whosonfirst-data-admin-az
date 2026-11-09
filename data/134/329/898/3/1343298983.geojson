@@ -66,7 +66,7 @@
         "wk:page":"La%C3%A7%C4%B1nlar"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"81f255ec4d8ea14cbfce33b31406066f",
+    "wof:geomhash":"ee43be258153d31aa1bc6ae0fd49dea2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,5 +92,5 @@
     46.71299000000001,
     39.76606
 ],
-  "geometry": {"coordinates":[46.71299000000001,39.76606],"type":"Point"}
+  "geometry": {"coordinates":[46.71299,39.76606],"type":"Point"}
 }

@@ -65,7 +65,7 @@
         "wk:page":"Poladtu%C4%9Fay"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"09838850e7b5c65db9530ec63c43f708",
+    "wof:geomhash":"e7d1a42fc85540e4f5e192c81d8e9e20",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,5 +91,5 @@
     48.9008,
     39.83929000000001
 ],
-  "geometry": {"coordinates":[48.9008,39.83929000000001],"type":"Point"}
+  "geometry": {"coordinates":[48.9008,39.83929],"type":"Point"}
 }

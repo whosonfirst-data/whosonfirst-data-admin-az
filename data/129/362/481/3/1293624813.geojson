@@ -48,7 +48,7 @@
         "wk:page":"Gez-Agzy"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"b86553db0b373216073bd8e93464b204",
+    "wof:geomhash":"e2178b1b7a1df2cf452e24ebfcaac250",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     48.5075,
     40.15472000000001
 ],
-  "geometry": {"coordinates":[48.5075,40.15472000000001],"type":"Point"}
+  "geometry": {"coordinates":[48.5075,40.15472],"type":"Point"}
 }

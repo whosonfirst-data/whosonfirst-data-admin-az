@@ -70,7 +70,7 @@
         "wk:page":"K%C9%99nd%C9%99bil"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"603c327fc0b397bd14ef9bac521c7463",
+    "wof:geomhash":"241d8f753927384cf781fd871215197c",
     "wof:hierarchy":[
         {
             "country_id":85632717,
@@ -93,5 +93,5 @@
     47.79988,
     40.11662000000001
 ],
-  "geometry": {"coordinates":[47.79988,40.11662000000001],"type":"Point"}
+  "geometry": {"coordinates":[47.79988,40.11662],"type":"Point"}
 }

@@ -73,7 +73,7 @@
         "wk:page":"Kuzun"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"0774c7dddccd21f847e1a95a57a6b050",
+    "wof:geomhash":"524e180551f7c5ff0e561c5d774f57de",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -99,5 +99,5 @@
     48.14141,
     41.33499000000001
 ],
-  "geometry": {"coordinates":[48.14141,41.33499000000001],"type":"Point"}
+  "geometry": {"coordinates":[48.14141,41.33499],"type":"Point"}
 }

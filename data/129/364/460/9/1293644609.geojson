@@ -75,7 +75,7 @@
         "wk:page":"K%C3%BCrd_Eldarb%C9%99yli"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"b39b19ef23559efd719e68deb28b89ee",
+    "wof:geomhash":"c9a8f661bfcc81ac3a354116ac9ce4af",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,5 +101,5 @@
     47.84883,
     40.76179000000001
 ],
-  "geometry": {"coordinates":[47.84883,40.76179000000001],"type":"Point"}
+  "geometry": {"coordinates":[47.84883,40.76179],"type":"Point"}
 }

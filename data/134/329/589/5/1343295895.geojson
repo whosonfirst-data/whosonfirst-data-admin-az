@@ -58,7 +58,7 @@
         "wk:page":"Tatar%2C_Qubadli"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"3c876ede14b24d1b88e2323eec8ba438",
+    "wof:geomhash":"02c583a509bf92b1c6178f33aaa6e168",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,5 +84,5 @@
     46.70144000000001,
     39.16318
 ],
-  "geometry": {"coordinates":[46.70144000000001,39.16318],"type":"Point"}
+  "geometry": {"coordinates":[46.70144,39.16318],"type":"Point"}
 }

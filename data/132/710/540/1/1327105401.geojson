@@ -47,7 +47,7 @@
         "wk:page":"Xudaf%C9%99rin"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"718296ec7f989d3227864b05debc51f3",
+    "wof:geomhash":"7bf095220d06cb9e8fcc2c28f9562a97",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,5 +73,5 @@
     46.94694000000001,
     39.15028
 ],
-  "geometry": {"coordinates":[46.94694000000001,39.15028],"type":"Point"}
+  "geometry": {"coordinates":[46.94694,39.15028],"type":"Point"}
 }

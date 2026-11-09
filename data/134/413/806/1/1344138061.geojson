@@ -60,7 +60,7 @@
         "wk:page":"Umudal%C4%B1lar"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"460083409ad4b33f4c12f6ed57f76ea8",
+    "wof:geomhash":"d4493f56f40e8146757c6a5ccbe13db9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,5 +86,5 @@
     47.04577000000001,
     40.48762
 ],
-  "geometry": {"coordinates":[47.04577000000001,40.48762],"type":"Point"}
+  "geometry": {"coordinates":[47.04577,40.48762],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Seidli"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"ad870e2d4afe504bc390954280d2e301",
+    "wof:geomhash":"dd4f83a8738c6ea2e5088373f47e7386",
     "wof:hierarchy":[
         {
             "country_id":85632717,
@@ -80,5 +80,5 @@
     46.99894000000001,
     40.03084000000001
 ],
-  "geometry": {"coordinates":[46.99894000000001,40.03084000000001],"type":"Point"}
+  "geometry": {"coordinates":[46.99894,40.03084],"type":"Point"}
 }

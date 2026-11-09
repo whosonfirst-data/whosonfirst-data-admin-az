@@ -64,7 +64,7 @@
         "wk:page":"Qobuq%C4%B1raq"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"0498acc627701721c405829ff6858c16",
+    "wof:geomhash":"659d569620afb14c0130764bca0575c2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -90,5 +90,5 @@
     48.82167000000001,
     41.44006
 ],
-  "geometry": {"coordinates":[48.82167000000001,41.44006],"type":"Point"}
+  "geometry": {"coordinates":[48.82167,41.44006],"type":"Point"}
 }

@@ -75,7 +75,7 @@
         "wk:page":"Vanq"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"7ded58eb5dbcad0202c6eecd333b85bd",
+    "wof:geomhash":"d107c4c640e6258073145a54f25b7983",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,5 +101,5 @@
     47.01799000000001,
     39.51209
 ],
-  "geometry": {"coordinates":[47.01799000000001,39.51209],"type":"Point"}
+  "geometry": {"coordinates":[47.01799,39.51209],"type":"Point"}
 }

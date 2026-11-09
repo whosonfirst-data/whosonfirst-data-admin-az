@@ -63,7 +63,7 @@
         "wk:page":"Sar%C4%B1bulaq"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"1d5c96c12a7eba186918c6a3e8f1ea53",
+    "wof:geomhash":"1c0633bd2443bbc54c3afb38b69222a5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,5 +89,5 @@
     46.23472,
     41.68389000000001
 ],
-  "geometry": {"coordinates":[46.23472,41.68389000000001],"type":"Point"}
+  "geometry": {"coordinates":[46.23472,41.68389],"type":"Point"}
 }

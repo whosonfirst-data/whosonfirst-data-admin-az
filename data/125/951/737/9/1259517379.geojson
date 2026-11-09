@@ -71,7 +71,7 @@
         "wk:page":"A%C5%9Fa%C4%9F%C4%B1_Astanl%C4%B1"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"790494ba7147afe0a6c0307a357c2da1",
+    "wof:geomhash":"ba0089363d05f68287efb312eac9c3c7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -97,5 +97,5 @@
     48.37465,
     39.03892000000001
 ],
-  "geometry": {"coordinates":[48.37465,39.03892000000001],"type":"Point"}
+  "geometry": {"coordinates":[48.37465,39.03892],"type":"Point"}
 }

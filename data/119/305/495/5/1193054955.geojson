@@ -51,7 +51,7 @@
         "wk:page":"Dzhinly"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"dc6f41abd1cb636658c0fdfa17947127",
+    "wof:geomhash":"4bb4b47cebb3a4c73c5bf34f29fa63b5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     47.00389000000001,
     40.54611
 ],
-  "geometry": {"coordinates":[47.00389000000001,40.54611],"type":"Point"}
+  "geometry": {"coordinates":[47.00389,40.54611],"type":"Point"}
 }

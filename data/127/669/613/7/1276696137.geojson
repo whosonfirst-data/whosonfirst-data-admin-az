@@ -48,7 +48,7 @@
         "wk:page":"Kokva-Kolel"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"ee6fc48e6501b8b5911439b40048eaa3",
+    "wof:geomhash":"be4dacd510b3a1ce0b5ba56a2de90c6f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     46.93389000000001,
     39.55194
 ],
-  "geometry": {"coordinates":[46.93389000000001,39.55194],"type":"Point"}
+  "geometry": {"coordinates":[46.93389,39.55194],"type":"Point"}
 }

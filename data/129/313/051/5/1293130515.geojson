@@ -59,7 +59,7 @@
         "gn:id":586735
     },
     "wof:country":"AZ",
-    "wof:geomhash":"c9cf4ecdc5867b8c0be35e760159672a",
+    "wof:geomhash":"182b2d80b5d2798230e1fc2d2523a6e9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,5 +85,5 @@
     48.4987,
     41.27059000000001
 ],
-  "geometry": {"coordinates":[48.4987,41.27059000000001],"type":"Point"}
+  "geometry": {"coordinates":[48.4987,41.27059],"type":"Point"}
 }

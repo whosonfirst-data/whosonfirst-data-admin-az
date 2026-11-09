@@ -78,7 +78,7 @@
         "wk:page":"Muradxanl%C4%B1%2C_Qubadli"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"fc166ad57f6ca55d9d2267253408fa40",
+    "wof:geomhash":"a1a173d4f0a75471ae7013d9712eee13",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,5 +104,5 @@
     46.62639,
     39.45444000000001
 ],
-  "geometry": {"coordinates":[46.62639,39.45444000000001],"type":"Point"}
+  "geometry": {"coordinates":[46.62639,39.45444],"type":"Point"}
 }

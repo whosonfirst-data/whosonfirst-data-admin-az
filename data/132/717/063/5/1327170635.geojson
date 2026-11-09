@@ -38,7 +38,7 @@
         "wk:page":"Kizilov"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"44ff53db647d5e91869240af3facb203",
+    "wof:geomhash":"49457bc53fc9f16ede33aacf98a831bd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -64,5 +64,5 @@
     46.48139000000001,
     39.68861
 ],
-  "geometry": {"coordinates":[46.48139000000001,39.68861],"type":"Point"}
+  "geometry": {"coordinates":[46.48139,39.68861],"type":"Point"}
 }

@@ -63,7 +63,7 @@
         "wk:page":"H%C3%BCseynxanl%C4%B1"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"c7b6f35f9b4b60d16b49ac5dc5693258",
+    "wof:geomhash":"38db5b6a5c5efe8a0d45d06a135d83db",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,5 +89,5 @@
     47.66602,
     40.22734000000001
 ],
-  "geometry": {"coordinates":[47.66602,40.22734000000001],"type":"Point"}
+  "geometry": {"coordinates":[47.66602,40.22734],"type":"Point"}
 }

@@ -75,7 +75,7 @@
         "wk:page":"%C6%8Frikli"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"706fbb87b7bc1daab01cdc638f9070db",
+    "wof:geomhash":"f696d2e93f3d509b1c03736f62f4e502",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,5 +101,5 @@
     46.41007000000001,
     39.84995
 ],
-  "geometry": {"coordinates":[46.41007000000001,39.84995],"type":"Point"}
+  "geometry": {"coordinates":[46.41007,39.84995],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Shotaryz"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"c9209592fd81f9b6c335e987b7216880",
+    "wof:geomhash":"d768801738925e4325617ec4679104b9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     46.54949000000001,
     39.09107
 ],
-  "geometry": {"coordinates":[46.54949000000001,39.09107],"type":"Point"}
+  "geometry": {"coordinates":[46.54949,39.09107],"type":"Point"}
 }

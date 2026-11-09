@@ -72,7 +72,7 @@
         "wk:page":"Mu%C4%9Fanl%C4%B1%2C_Agstafa"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"7b03ba0befcad1dff01ab4538c0d0a41",
+    "wof:geomhash":"5545a02ae36c5113329adf42620897c8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,5 +98,5 @@
     45.19702,
     41.34464000000001
 ],
-  "geometry": {"coordinates":[45.19702,41.34464000000001],"type":"Point"}
+  "geometry": {"coordinates":[45.19702,41.34464],"type":"Point"}
 }

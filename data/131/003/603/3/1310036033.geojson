@@ -61,7 +61,7 @@
         "wk:page":"A%C5%9Fa%C4%9F%C4%B1_Da%C5%9Fa%C4%9F%C4%B1l"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"ddfff78505dc51c2e7a791acbe5dbf07",
+    "wof:geomhash":"44fe15accfe3441fb6a249da5dcecef2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,5 +87,5 @@
     47.32935,
     41.00559000000001
 ],
-  "geometry": {"coordinates":[47.32935,41.00559000000001],"type":"Point"}
+  "geometry": {"coordinates":[47.32935,41.00559],"type":"Point"}
 }

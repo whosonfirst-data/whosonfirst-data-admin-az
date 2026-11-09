@@ -60,7 +60,7 @@
         "wk:page":"Yola%C4%9Fac"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"fcd7791f9d6e30a4267883f78d7a194f",
+    "wof:geomhash":"5e76226dd92b531bf29ff620f73239f1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,5 +86,5 @@
     48.53044000000001,
     39.01361
 ],
-  "geometry": {"coordinates":[48.53044000000001,39.01361],"type":"Point"}
+  "geometry": {"coordinates":[48.53044,39.01361],"type":"Point"}
 }

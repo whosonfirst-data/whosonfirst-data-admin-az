@@ -57,7 +57,7 @@
         "wk:page":"G%C9%99ray"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"2ead9b4cca6b9e1214d9105785b7d52b",
+    "wof:geomhash":"3bb28a65857175413574e80adf7547d6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     48.33224000000001,
     41.33042
 ],
-  "geometry": {"coordinates":[48.33224000000001,41.33042],"type":"Point"}
+  "geometry": {"coordinates":[48.33224,41.33042],"type":"Point"}
 }

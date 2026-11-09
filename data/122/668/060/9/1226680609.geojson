@@ -62,7 +62,7 @@
         "wk:page":"Kir%C9%99vud"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"0630b8adc5fb87c9d08c40dffeb1da31",
+    "wof:geomhash":"bac7fec58b4a21e629bff5107784e607",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,5 +88,5 @@
     48.44674000000001,
     38.87602
 ],
-  "geometry": {"coordinates":[48.44674000000001,38.87602],"type":"Point"}
+  "geometry": {"coordinates":[48.44674,38.87602],"type":"Point"}
 }

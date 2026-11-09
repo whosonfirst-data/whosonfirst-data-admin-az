@@ -60,7 +60,7 @@
         "wk:page":"Azizbekov%2C_Goranboy"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"e2b6b915026eb45d2111efecebb83309",
+    "wof:geomhash":"cc991fa778fed5946d39088a5639fbb0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,5 +86,5 @@
     46.63209000000001,
     40.69596
 ],
-  "geometry": {"coordinates":[46.63209000000001,40.69596],"type":"Point"}
+  "geometry": {"coordinates":[46.63209,40.69596],"type":"Point"}
 }

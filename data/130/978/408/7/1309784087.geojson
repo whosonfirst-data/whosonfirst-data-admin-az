@@ -76,7 +76,7 @@
         "wk:page":"Xana%C4%9Fal%C4%B1"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"e8dc98406cae42dbd7eb8d9f7a8820d7",
+    "wof:geomhash":"95d72d28a3d274288e3288de7b0f3336",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -102,5 +102,5 @@
     47.1775,
     40.27444000000001
 ],
-  "geometry": {"coordinates":[47.1775,40.27444000000001],"type":"Point"}
+  "geometry": {"coordinates":[47.1775,40.27444],"type":"Point"}
 }

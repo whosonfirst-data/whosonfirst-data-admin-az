@@ -60,7 +60,7 @@
         "wk:page":"%C5%9E%C9%99r%C9%99fxanl%C4%B1"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"360c9ee5c32bc1dd8257eab36bda43e8",
+    "wof:geomhash":"ef91cfc89eb653052c35f5f8271d6c38",
     "wof:hierarchy":[
         {
             "country_id":85632717,
@@ -83,5 +83,5 @@
     47.1754,
     40.05119000000001
 ],
-  "geometry": {"coordinates":[47.1754,40.05119000000001],"type":"Point"}
+  "geometry": {"coordinates":[47.1754,40.05119],"type":"Point"}
 }

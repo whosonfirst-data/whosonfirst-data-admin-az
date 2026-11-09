@@ -57,7 +57,7 @@
         "wk:page":"Shosi"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"302fbc7f12e7c6e3381ef1ae5597b583",
+    "wof:geomhash":"b61700909f22577024f8a07e2bde60f9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     48.25044000000001,
     38.81313
 ],
-  "geometry": {"coordinates":[48.25044000000001,38.81313],"type":"Point"}
+  "geometry": {"coordinates":[48.25044,38.81313],"type":"Point"}
 }

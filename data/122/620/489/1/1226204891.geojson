@@ -60,7 +60,7 @@
         "wk:page":"Ay%C4%B1tala"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"f63c0e938fc0d1237d6177985e377fcc",
+    "wof:geomhash":"ae45a97f8c4a40ec3bf219ddd5a1dba4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,5 +86,5 @@
     45.80765,
     40.54239000000001
 ],
-  "geometry": {"coordinates":[45.80765,40.54239000000001],"type":"Point"}
+  "geometry": {"coordinates":[45.80765,40.54239],"type":"Point"}
 }

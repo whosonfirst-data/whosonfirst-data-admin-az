@@ -60,7 +60,7 @@
         "wk:page":"Moruxlu"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"938698b5767da5b7735d5b0546826f26",
+    "wof:geomhash":"0d9ffad85ad5f7cc6a852a746277d44d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,5 +86,5 @@
     45.77493,
     40.72864000000001
 ],
-  "geometry": {"coordinates":[45.77493,40.72864000000001],"type":"Point"}
+  "geometry": {"coordinates":[45.77493,40.72864],"type":"Point"}
 }

@@ -43,7 +43,7 @@
         "wk:page":"Keytikh"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"700d601ba2afa45a6d8619add3b12cdc",
+    "wof:geomhash":"7e78ca57688c08f56bae92c7d42500ab",
     "wof:hierarchy":[
         {
             "country_id":85632717,
@@ -66,5 +66,5 @@
     49.13444000000001,
     40.33139
 ],
-  "geometry": {"coordinates":[49.13444000000001,40.33139],"type":"Point"}
+  "geometry": {"coordinates":[49.13444,40.33139],"type":"Point"}
 }

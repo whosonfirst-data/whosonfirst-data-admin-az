@@ -61,7 +61,7 @@
         "wk:page":"Yuxar%C4%B1_Noxudlu"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"3593def6aa8a165cb59097fade5b6a6d",
+    "wof:geomhash":"422c2e6e31b8b2473feaec104ef4e64f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,5 +87,5 @@
     48.93389000000001,
     39.65263
 ],
-  "geometry": {"coordinates":[48.93389000000001,39.65263],"type":"Point"}
+  "geometry": {"coordinates":[48.93389,39.65263],"type":"Point"}
 }

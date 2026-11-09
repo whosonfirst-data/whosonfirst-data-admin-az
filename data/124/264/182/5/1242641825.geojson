@@ -78,7 +78,7 @@
         "wk:page":"Hacall%C4%B1%2C_Goranboy"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"6d1b1c13bd3e7757c0d045bd7aefd2e7",
+    "wof:geomhash":"6a7d67c3c852f8e9c0b2d0a1fdef551b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,5 +104,5 @@
     46.73954000000001,
     40.483
 ],
-  "geometry": {"coordinates":[46.73954000000001,40.483],"type":"Point"}
+  "geometry": {"coordinates":[46.73954,40.483],"type":"Point"}
 }

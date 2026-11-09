@@ -54,7 +54,7 @@
         "wk:page":"D%C9%99yirmanlar"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"f07aea5c7caff9c8d7c1092cdf493979",
+    "wof:geomhash":"936516dc15fd0c7a27672f984b9ade0b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     46.36612,
     40.50069000000001
 ],
-  "geometry": {"coordinates":[46.36612,40.50069000000001],"type":"Point"}
+  "geometry": {"coordinates":[46.36612,40.50069],"type":"Point"}
 }

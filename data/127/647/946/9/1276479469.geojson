@@ -73,7 +73,7 @@
         "wk:page":"Honuba"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"b5995df159c146daf930c62f01a8052a",
+    "wof:geomhash":"14f0561df9474c5e7de882e5ed1c5b13",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -99,5 +99,5 @@
     48.43989000000001,
     38.97393
 ],
-  "geometry": {"coordinates":[48.43989000000001,38.97393],"type":"Point"}
+  "geometry": {"coordinates":[48.43989,38.97393],"type":"Point"}
 }

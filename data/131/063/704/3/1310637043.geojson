@@ -86,7 +86,7 @@
         "wk:page":"S%C4%B1%C4%9Fnax"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"7390dc8c93480b542005257845d9c797",
+    "wof:geomhash":"4b0e1f624a499e7665bce88312073bcd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -112,5 +112,5 @@
     46.80022,
     39.72284000000001
 ],
-  "geometry": {"coordinates":[46.80022,39.72284000000001],"type":"Point"}
+  "geometry": {"coordinates":[46.80022,39.72284],"type":"Point"}
 }

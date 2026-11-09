@@ -72,7 +72,7 @@
         "wk:page":"Qax_%C4%B0ngiloy"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"7f974fdbe22d09ae94e85da0b476d7c4",
+    "wof:geomhash":"5456b6d6a19e10b9cc40450a793c9a41",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -100,5 +100,5 @@
     46.93859000000001,
     41.42412
 ],
-  "geometry": {"coordinates":[46.93859000000001,41.42412],"type":"Point"}
+  "geometry": {"coordinates":[46.93859,41.42412],"type":"Point"}
 }

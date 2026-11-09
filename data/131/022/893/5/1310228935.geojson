@@ -69,7 +69,7 @@
         "wk:page":"Nehr%C9%99x%C9%99lil"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"7c72097be8ce9457915ca579e9cf6fd5",
+    "wof:geomhash":"e9c96ab47c1e030dca59a278ba2d2f38",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,5 +95,5 @@
     47.44971,
     40.57429000000001
 ],
-  "geometry": {"coordinates":[47.44971,40.57429000000001],"type":"Point"}
+  "geometry": {"coordinates":[47.44971,40.57429],"type":"Point"}
 }

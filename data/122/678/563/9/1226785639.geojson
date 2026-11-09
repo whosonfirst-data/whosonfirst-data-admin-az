@@ -72,7 +72,7 @@
         "wk:page":"Qaramanl%C4%B1"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"6236097191628408c9f2ca8c36de4433",
+    "wof:geomhash":"ed34d32000bd3c4bb820c055d2538049",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -100,5 +100,5 @@
     46.99339000000001,
     40.48135
 ],
-  "geometry": {"coordinates":[46.99339000000001,40.48135],"type":"Point"}
+  "geometry": {"coordinates":[46.99339,40.48135],"type":"Point"}
 }

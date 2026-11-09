@@ -54,7 +54,7 @@
         "wk:page":"Kedalish"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"d1d0a22b8b4fa28513a6c149eb7cd6e4",
+    "wof:geomhash":"1a7c6f38a5f05ba88818f61041bc845b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     46.15472000000001,
     40.40694000000001
 ],
-  "geometry": {"coordinates":[46.15472000000001,40.40694000000001],"type":"Point"}
+  "geometry": {"coordinates":[46.15472,40.40694],"type":"Point"}
 }

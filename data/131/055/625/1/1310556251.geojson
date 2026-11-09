@@ -66,7 +66,7 @@
         "wk:page":"Byazirkhana"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"d1cd465bdf070a3e7a4ffba877df27d6",
+    "wof:geomhash":"e87a3e651d620d9734719efdc1eb8405",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,5 +92,5 @@
     46.19300000000001,
     40.14364000000001
 ],
-  "geometry": {"coordinates":[46.19300000000001,40.14364000000001],"type":"Point"}
+  "geometry": {"coordinates":[46.193,40.14364],"type":"Point"}
 }

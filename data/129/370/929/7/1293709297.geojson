@@ -66,7 +66,7 @@
         "wk:page":"Bala_%C5%9Eaha%C4%9Fac"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"3998c66caa2e920116e998730f600646",
+    "wof:geomhash":"5001d2a769a4158640144742f49c2da2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,5 +92,5 @@
     48.86069000000001,
     38.61925
 ],
-  "geometry": {"coordinates":[48.86069000000001,38.61925],"type":"Point"}
+  "geometry": {"coordinates":[48.86069,38.61925],"type":"Point"}
 }

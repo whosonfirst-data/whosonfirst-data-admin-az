@@ -57,7 +57,7 @@
         "wk:page":"%C6%8Fhm%C9%99dabad%2C_Goranboy"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"4d5db07a402e7e7a42dbd212fcc96582",
+    "wof:geomhash":"fb058317c80b3c72d666da3f4da45b26",
     "wof:hierarchy":[
         {
             "country_id":85632717,
@@ -80,5 +80,5 @@
     46.65294,
     40.71149000000001
 ],
-  "geometry": {"coordinates":[46.65294,40.71149000000001],"type":"Point"}
+  "geometry": {"coordinates":[46.65294,40.71149],"type":"Point"}
 }

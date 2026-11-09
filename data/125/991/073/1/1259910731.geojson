@@ -72,7 +72,7 @@
         "wk:page":"Maqsudk%C9%99nd"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"004acdbf031d1de360d53343627abb70",
+    "wof:geomhash":"4bdd213850241a1921b1a11c01039277",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,5 +98,5 @@
     48.61277000000001,
     41.65687
 ],
-  "geometry": {"coordinates":[48.61277000000001,41.65687],"type":"Point"}
+  "geometry": {"coordinates":[48.61277,41.65687],"type":"Point"}
 }

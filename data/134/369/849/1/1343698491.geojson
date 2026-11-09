@@ -54,7 +54,7 @@
         "wk:page":"%C6%8Frzik%C3%BC%C5%9F"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"97a55e9b647db9e0be5e1f2184bfbe0a",
+    "wof:geomhash":"3fefd77a77ef481bc64403da8e00d44a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     48.91422,
     40.94504000000001
 ],
-  "geometry": {"coordinates":[48.91422,40.94504000000001],"type":"Point"}
+  "geometry": {"coordinates":[48.91422,40.94504],"type":"Point"}
 }

@@ -69,7 +69,7 @@
         "wk:page":"Buruc"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"65ffbd893d57475570113e5c4241af37",
+    "wof:geomhash":"4d7cf39dc748f0f129f236550f4cb94a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,5 +95,5 @@
     46.96939,
     40.35827000000001
 ],
-  "geometry": {"coordinates":[46.96939,40.35827000000001],"type":"Point"}
+  "geometry": {"coordinates":[46.96939,40.35827],"type":"Point"}
 }

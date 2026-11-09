@@ -66,7 +66,7 @@
         "wk:page":"Qazmalar"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"1c7c3c1da8d27ebb0329fa18b4ec8e2d",
+    "wof:geomhash":"69a1761e081c92199f25a32a8022c5e8",
     "wof:hierarchy":[
         {
             "country_id":85632717,
@@ -89,5 +89,5 @@
     46.88237,
     41.30074000000001
 ],
-  "geometry": {"coordinates":[46.88237,41.30074000000001],"type":"Point"}
+  "geometry": {"coordinates":[46.88237,41.30074],"type":"Point"}
 }

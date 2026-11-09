@@ -63,7 +63,7 @@
         "wk:page":"Hacall%C4%B1%2C_Tovuz"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"c7a4f14faa260926530cdb75c2be238a",
+    "wof:geomhash":"c8afa56ec7a0567b12309b9d4d6de544",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,5 +89,5 @@
     45.47038,
     40.95849000000001
 ],
-  "geometry": {"coordinates":[45.47038,40.95849000000001],"type":"Point"}
+  "geometry": {"coordinates":[45.47038,40.95849],"type":"Point"}
 }

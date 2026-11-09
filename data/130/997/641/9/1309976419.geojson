@@ -63,7 +63,7 @@
         "wk:page":"A%C4%9Fda%C5%9F%2C_Jalilabad"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"8a306ac21c962f5d56ebce34c38bd521",
+    "wof:geomhash":"5ee576c45847069c19a77bb3c1f06673",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,5 +89,5 @@
     48.49609,
     39.11812000000001
 ],
-  "geometry": {"coordinates":[48.49609,39.11812000000001],"type":"Point"}
+  "geometry": {"coordinates":[48.49609,39.11812],"type":"Point"}
 }

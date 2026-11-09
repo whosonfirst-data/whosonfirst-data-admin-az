@@ -75,7 +75,7 @@
         "wk:page":"Tal%C4%B1stan"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"9cfde3a4095c2e07aa9e53bad84c0918",
+    "wof:geomhash":"5ac46dc00ce6b0bc618fda66d54c98d0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,5 +101,5 @@
     48.19600000000001,
     40.79674
 ],
-  "geometry": {"coordinates":[48.19600000000001,40.79674],"type":"Point"}
+  "geometry": {"coordinates":[48.196,40.79674],"type":"Point"}
 }

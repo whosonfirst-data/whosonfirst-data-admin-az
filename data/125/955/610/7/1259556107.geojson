@@ -77,7 +77,7 @@
         "wk:page":"Xo%C5%9Fbulaq"
     },
     "wof:country":"AZ",
-    "wof:geomhash":"2c0d6ea643d2ac33739c85f4abd0c1e1",
+    "wof:geomhash":"6483dbcf34514ad1a1b4aae2b57511e9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -103,5 +103,5 @@
     46.01224000000001,
     40.4672
 ],
-  "geometry": {"coordinates":[46.01224000000001,40.4672],"type":"Point"}
+  "geometry": {"coordinates":[46.01224,40.4672],"type":"Point"}
 }
