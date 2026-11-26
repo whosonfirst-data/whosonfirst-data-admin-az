@@ -1,0 +1,74 @@
+{
+  "id": 9895011278,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.52291,39.97821,48.52291,39.97821",
+    "geom:latitude":39.97821,
+    "geom:longitude":48.52291,
+    "iso:country":"AZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12023778: name \"Bulaql\u0131\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12023778"
+        },
+        {
+            "citation":"GeoNames populated place 12023778: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12023778"
+        },
+        {
+            "citation":"GeoNames populated place 12023778: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12023778"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85668447 (Sabirabad), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717,
+        85668447,
+        102191569,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12023778
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"fb9b9f3118711903a4e52ab9f9feac8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":9895011278,
+            "macroregion_id":1108808627,
+            "region_id":85668447
+        }
+    ],
+    "wof:id":9895011278,
+    "wof:lastmodified":1795735069,
+    "wof:name":"Bulaql\u0131",
+    "wof:parent_id":85668447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.52291,
+    39.97821,
+    48.52291,
+    39.97821
+],
+  "geometry": {"coordinates":[48.52291,39.97821],"type":"Point"}
+}

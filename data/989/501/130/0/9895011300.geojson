@@ -1,0 +1,74 @@
+{
+  "id": 9895011300,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.26277,39.57956,48.26277,39.57956",
+    "geom:latitude":39.57956,
+    "geom:longitude":48.26277,
+    "iso:country":"AZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12086481: name \"Arazbar\u0131\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12086481"
+        },
+        {
+            "citation":"GeoNames populated place 12086481: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12086481"
+        },
+        {
+            "citation":"GeoNames populated place 12086481: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12086481"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85668317 (Bil\u0259suvar), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717,
+        85668317,
+        102191569,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12086481
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"9de44d4c62615d32e86ef86a211ebed7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":9895011300,
+            "macroregion_id":1108808627,
+            "region_id":85668317
+        }
+    ],
+    "wof:id":9895011300,
+    "wof:lastmodified":1795735069,
+    "wof:name":"Arazbar\u0131",
+    "wof:parent_id":85668317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.26277,
+    39.57956,
+    48.26277,
+    39.57956
+],
+  "geometry": {"coordinates":[48.26277,39.57956],"type":"Point"}
+}

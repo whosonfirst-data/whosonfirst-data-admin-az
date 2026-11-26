@@ -1,0 +1,74 @@
+{
+  "id": 9895011294,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.50698,38.80274,48.50698,38.80274",
+    "geom:latitude":38.80274,
+    "geom:longitude":48.50698,
+    "iso:country":"AZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12081074: name \"Qirxc\u0131 Kilometr\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12081074"
+        },
+        {
+            "citation":"GeoNames populated place 12081074: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12081074"
+        },
+        {
+            "citation":"GeoNames populated place 12081074: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12081074"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85668403 (Lerik), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717,
+        85668403,
+        102191569,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12081074
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7c3de9ffa7eb0fcd32cc6bc75a81700a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":9895011294,
+            "macroregion_id":1108808625,
+            "region_id":85668403
+        }
+    ],
+    "wof:id":9895011294,
+    "wof:lastmodified":1795735069,
+    "wof:name":"Qirxc\u0131 Kilometr",
+    "wof:parent_id":85668403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.50698,
+    38.80274,
+    48.50698,
+    38.80274
+],
+  "geometry": {"coordinates":[48.50698,38.80274],"type":"Point"}
+}

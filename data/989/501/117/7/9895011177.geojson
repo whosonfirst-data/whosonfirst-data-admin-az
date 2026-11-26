@@ -1,0 +1,74 @@
+{
+  "id": 9895011177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.54176,40.67574,45.54176,40.67574",
+    "geom:latitude":40.67574,
+    "geom:longitude":45.54176,
+    "iso:country":"AZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11802142: name \"Qayadibi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11802142"
+        },
+        {
+            "citation":"GeoNames populated place 11802142: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11802142"
+        },
+        {
+            "citation":"GeoNames populated place 11802142: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11802142"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85668241 (Tovuz), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717,
+        85668241,
+        102191569,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11802142
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b810ad528183bf009e91165d9707c280",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":9895011177,
+            "macroregion_id":1108808609,
+            "region_id":85668241
+        }
+    ],
+    "wof:id":9895011177,
+    "wof:lastmodified":1795735069,
+    "wof:name":"Qayadibi",
+    "wof:parent_id":85668241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.54176,
+    40.67574,
+    45.54176,
+    40.67574
+],
+  "geometry": {"coordinates":[45.54176,40.67574],"type":"Point"}
+}

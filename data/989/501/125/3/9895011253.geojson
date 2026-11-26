@@ -1,0 +1,74 @@
+{
+  "id": 9895011253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.19104,40.30724,48.19104,40.30724",
+    "geom:latitude":40.30724,
+    "geom:longitude":48.19104,
+    "iso:country":"AZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11919118: name \"Yeni \u015e\u0131x\u0131ml\u0131\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11919118"
+        },
+        {
+            "citation":"GeoNames populated place 11919118: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11919118"
+        },
+        {
+            "citation":"GeoNames populated place 11919118: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11919118"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85668383 (K\u00fcrd\u0259mir), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717,
+        85668383,
+        102191569,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11919118
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d8f39d11bc8a2cb1682c63b998a14562",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":9895011253,
+            "macroregion_id":1108808627,
+            "region_id":85668383
+        }
+    ],
+    "wof:id":9895011253,
+    "wof:lastmodified":1795735069,
+    "wof:name":"Yeni \u015e\u0131x\u0131ml\u0131",
+    "wof:parent_id":85668383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.19104,
+    40.30724,
+    48.19104,
+    40.30724
+],
+  "geometry": {"coordinates":[48.19104,40.30724],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895011280,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.97339,40.01931,46.97339,40.01931",
+    "geom:latitude":40.01931,
+    "geom:longitude":46.97339,
+    "iso:country":"AZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12054974: name \"Bozpapaqlar\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12054974"
+        },
+        {
+            "citation":"GeoNames populated place 12054974: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12054974"
+        },
+        {
+            "citation":"GeoNames populated place 12054974: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12054974"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85668257 (A\u011fdam), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717,
+        85668257,
+        102191569,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12054974
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"ce43aadaf1f70a64bb2c9bbd1c0de19f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":9895011280,
+            "macroregion_id":1108808615,
+            "region_id":85668257
+        }
+    ],
+    "wof:id":9895011280,
+    "wof:lastmodified":1795735069,
+    "wof:name":"Bozpapaqlar",
+    "wof:parent_id":85668257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.97339,
+    40.01931,
+    46.97339,
+    40.01931
+],
+  "geometry": {"coordinates":[46.97339,40.01931],"type":"Point"}
+}

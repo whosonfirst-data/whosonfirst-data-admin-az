@@ -1,0 +1,74 @@
+{
+  "id": 9895011311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.87075,39.47518,46.87075,39.47518",
+    "geom:latitude":39.47518,
+    "geom:longitude":46.87075,
+    "iso:country":"AZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13414469: name \"Sirik\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13414469"
+        },
+        {
+            "citation":"GeoNames populated place 13414469: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13414469"
+        },
+        {
+            "citation":"GeoNames populated place 13414469: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13414469"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85668323 (C\u0259bray\u0131l), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717,
+        85668323,
+        102191569,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13414469
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b609430e9acc677eade17ca93cd4312f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":9895011311,
+            "macroregion_id":1108808615,
+            "region_id":85668323
+        }
+    ],
+    "wof:id":9895011311,
+    "wof:lastmodified":1795735069,
+    "wof:name":"Sirik",
+    "wof:parent_id":85668323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.87075,
+    39.47518,
+    46.87075,
+    39.47518
+],
+  "geometry": {"coordinates":[46.87075,39.47518],"type":"Point"}
+}

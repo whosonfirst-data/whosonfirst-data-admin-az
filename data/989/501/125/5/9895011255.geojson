@@ -1,0 +1,74 @@
+{
+  "id": 9895011255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.37756,40.34458,48.37756,40.34458",
+    "geom:latitude":40.34458,
+    "geom:longitude":48.37756,
+    "iso:country":"AZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11919128: name \"Gar\u0131s \u018fyrib\u0259nd\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11919128"
+        },
+        {
+            "citation":"GeoNames populated place 11919128: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11919128"
+        },
+        {
+            "citation":"GeoNames populated place 11919128: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11919128"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85668383 (K\u00fcrd\u0259mir), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717,
+        85668383,
+        102191569,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11919128
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"f74d0b01ef38bb4b2a099a6d6cc9b14b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":9895011255,
+            "macroregion_id":1108808627,
+            "region_id":85668383
+        }
+    ],
+    "wof:id":9895011255,
+    "wof:lastmodified":1795735069,
+    "wof:name":"Gar\u0131s \u018fyrib\u0259nd",
+    "wof:parent_id":85668383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.37756,
+    40.34458,
+    48.37756,
+    40.34458
+],
+  "geometry": {"coordinates":[48.37756,40.34458],"type":"Point"}
+}

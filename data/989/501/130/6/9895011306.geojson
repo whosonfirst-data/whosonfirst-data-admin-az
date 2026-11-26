@@ -1,0 +1,74 @@
+{
+  "id": 9895011306,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.40312,39.96912,49.40312,39.96912",
+    "geom:latitude":39.96912,
+    "geom:longitude":49.40312,
+    "iso:country":"AZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12238135: name \"Garakosa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12238135"
+        },
+        {
+            "citation":"GeoNames populated place 12238135: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12238135"
+        },
+        {
+            "citation":"GeoNames populated place 12238135: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12238135"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85668249 (Bak\u0131), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717,
+        85668249,
+        102191569,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12238135
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"565e0f311b482853695958faad785633",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":9895011306,
+            "macroregion_id":1108808621,
+            "region_id":85668249
+        }
+    ],
+    "wof:id":9895011306,
+    "wof:lastmodified":1795735069,
+    "wof:name":"Garakosa",
+    "wof:parent_id":85668249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.40312,
+    39.96912,
+    49.40312,
+    39.96912
+],
+  "geometry": {"coordinates":[49.40312,39.96912],"type":"Point"}
+}

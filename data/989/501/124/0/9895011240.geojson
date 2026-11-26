@@ -1,0 +1,74 @@
+{
+  "id": 9895011240,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.2334,40.6406,46.2334,40.6406",
+    "geom:latitude":40.6406,
+    "geom:longitude":46.2334,
+    "iso:country":"AZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11915571: name \"Yeni Q\u0131z\u0131lca\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11915571"
+        },
+        {
+            "citation":"GeoNames populated place 11915571: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11915571"
+        },
+        {
+            "citation":"GeoNames populated place 11915571: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11915571"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85668211 (Xanlar), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717,
+        85668211,
+        102191569,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11915571
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2c9e16bdb94f87419390490174e458b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":9895011240,
+            "macroregion_id":1108808609,
+            "region_id":85668211
+        }
+    ],
+    "wof:id":9895011240,
+    "wof:lastmodified":1795735069,
+    "wof:name":"Yeni Q\u0131z\u0131lca",
+    "wof:parent_id":85668211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.2334,
+    40.6406,
+    46.2334,
+    40.6406
+],
+  "geometry": {"coordinates":[46.2334,40.6406],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895011136,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.74374,40.45235,49.74374,40.45235",
+    "geom:latitude":40.45235,
+    "geom:longitude":49.74374,
+    "iso:country":"AZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 7669120: name \"Absheron\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/7669120"
+        },
+        {
+            "citation":"GeoNames populated place 7669120: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/7669120"
+        },
+        {
+            "citation":"GeoNames populated place 7669120: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/7669120"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85668251 (Ab\u015feron), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717,
+        85668251,
+        102191569,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7669120
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3a92a3aeecb922114d181de915244031",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":9895011136,
+            "macroregion_id":1108808621,
+            "region_id":85668251
+        }
+    ],
+    "wof:id":9895011136,
+    "wof:lastmodified":1795735069,
+    "wof:name":"Absheron",
+    "wof:parent_id":85668251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.74374,
+    40.45235,
+    49.74374,
+    40.45235
+],
+  "geometry": {"coordinates":[49.74374,40.45235],"type":"Point"}
+}

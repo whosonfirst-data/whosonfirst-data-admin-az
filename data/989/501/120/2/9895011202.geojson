@@ -1,0 +1,74 @@
+{
+  "id": 9895011202,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.187,40.166,46.187,40.166",
+    "geom:latitude":40.166,
+    "geom:longitude":46.187,
+    "iso:country":"AZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11864220: name \"Piril\u0259r\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11864220"
+        },
+        {
+            "citation":"GeoNames populated place 11864220: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11864220"
+        },
+        {
+            "citation":"GeoNames populated place 11864220: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11864220"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85668221 (K\u0259lb\u0259c\u0259r), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717,
+        85668221,
+        102191569,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11864220
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"824e71455920818def2a37c0636a4298",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":9895011202,
+            "macroregion_id":1108808607,
+            "region_id":85668221
+        }
+    ],
+    "wof:id":9895011202,
+    "wof:lastmodified":1795735069,
+    "wof:name":"Piril\u0259r",
+    "wof:parent_id":85668221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.187,
+    40.166,
+    46.187,
+    40.166
+],
+  "geometry": {"coordinates":[46.187,40.166],"type":"Point"}
+}

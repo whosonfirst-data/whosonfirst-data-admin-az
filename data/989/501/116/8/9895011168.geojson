@@ -1,0 +1,75 @@
+{
+  "id": 9895011168,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.22405,40.16334,47.22405,40.16334",
+    "geom:latitude":40.16334,
+    "geom:longitude":47.22405,
+    "gn:population":1000,
+    "iso:country":"AZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11799868: name \"Birinci Guzanli\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11799868"
+        },
+        {
+            "citation":"GeoNames populated place 11799868: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11799868"
+        },
+        {
+            "citation":"GeoNames populated place 11799868: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11799868"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85668519 (A\u011fcab\u0259di), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717,
+        85668519,
+        102191569,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11799868
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"ab36c4ee77e4bc69fd71ad596ec5bbe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":9895011168,
+            "macroregion_id":1108808627,
+            "region_id":85668519
+        }
+    ],
+    "wof:id":9895011168,
+    "wof:lastmodified":1795735069,
+    "wof:name":"Birinci Guzanli",
+    "wof:parent_id":85668519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.22405,
+    40.16334,
+    47.22405,
+    40.16334
+],
+  "geometry": {"coordinates":[47.22405,40.16334],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895011126,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.66061,40.76976,48.66061,40.76976",
+    "geom:latitude":40.76976,
+    "geom:longitude":48.66061,
+    "iso:country":"AZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 584880: name \"Tal\u0131\u015fnuru\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/584880"
+        },
+        {
+            "citation":"GeoNames populated place 584880: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/584880"
+        },
+        {
+            "citation":"GeoNames populated place 584880: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/584880"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85668459 (\u015eamax\u0131), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717,
+        85668459,
+        102191569,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584880
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"1cbff78256d19de373b2afa8774ac1cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":9895011126,
+            "macroregion_id":1108808611,
+            "region_id":85668459
+        }
+    ],
+    "wof:id":9895011126,
+    "wof:lastmodified":1795735069,
+    "wof:name":"Tal\u0131\u015fnuru",
+    "wof:parent_id":85668459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.66061,
+    40.76976,
+    48.66061,
+    40.76976
+],
+  "geometry": {"coordinates":[48.66061,40.76976],"type":"Point"}
+}

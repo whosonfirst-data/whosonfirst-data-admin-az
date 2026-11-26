@@ -1,0 +1,74 @@
+{
+  "id": 9895011318,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.5122,40.78952,46.5122,40.78952",
+    "geom:latitude":40.78952,
+    "geom:longitude":46.5122,
+    "iso:country":"AZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13415834: name \"\u018fli Bayraml\u0131\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13415834"
+        },
+        {
+            "citation":"GeoNames populated place 13415834: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13415834"
+        },
+        {
+            "citation":"GeoNames populated place 13415834: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13415834"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85668235 (Samux), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717,
+        85668235,
+        102191569,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13415834
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e2e1b2798fea6c73b5dd2f5613480911",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":9895011318,
+            "macroregion_id":1108808609,
+            "region_id":85668235
+        }
+    ],
+    "wof:id":9895011318,
+    "wof:lastmodified":1795735069,
+    "wof:name":"\u018fli Bayraml\u0131",
+    "wof:parent_id":85668235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.5122,
+    40.78952,
+    46.5122,
+    40.78952
+],
+  "geometry": {"coordinates":[46.5122,40.78952],"type":"Point"}
+}

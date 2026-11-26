@@ -1,0 +1,74 @@
+{
+  "id": 9895011249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.87796,40.50807,46.87796,40.50807",
+    "geom:latitude":40.50807,
+    "geom:longitude":46.87796,
+    "iso:country":"AZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11919084: name \"Yeni Yol\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11919084"
+        },
+        {
+            "citation":"GeoNames populated place 11919084: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11919084"
+        },
+        {
+            "citation":"GeoNames populated place 11919084: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11919084"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85668215 (Goranboy), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717,
+        85668215,
+        102191569,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11919084
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"5842198c6c2ce453276d4ad20be35858",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":9895011249,
+            "macroregion_id":1108808609,
+            "region_id":85668215
+        }
+    ],
+    "wof:id":9895011249,
+    "wof:lastmodified":1795735069,
+    "wof:name":"Yeni Yol",
+    "wof:parent_id":85668215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.87796,
+    40.50807,
+    46.87796,
+    40.50807
+],
+  "geometry": {"coordinates":[46.87796,40.50807],"type":"Point"}
+}

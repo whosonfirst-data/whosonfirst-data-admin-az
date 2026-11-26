@@ -1,0 +1,74 @@
+{
+  "id": 9895011219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.3848,39.02441,48.3848,39.02441",
+    "geom:latitude":39.02441,
+    "geom:longitude":48.3848,
+    "iso:country":"AZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11912724: name \"Musa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11912724"
+        },
+        {
+            "citation":"GeoNames populated place 11912724: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11912724"
+        },
+        {
+            "citation":"GeoNames populated place 11912724: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11912724"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85668497 (Yard\u0131ml\u0131), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717,
+        85668497,
+        102191569,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11912724
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2a2fb9fafbd2d28c78277dcea12e7133",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":9895011219,
+            "macroregion_id":1108808625,
+            "region_id":85668497
+        }
+    ],
+    "wof:id":9895011219,
+    "wof:lastmodified":1795735069,
+    "wof:name":"Musa",
+    "wof:parent_id":85668497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.3848,
+    39.02441,
+    48.3848,
+    39.02441
+],
+  "geometry": {"coordinates":[48.3848,39.02441],"type":"Point"}
+}

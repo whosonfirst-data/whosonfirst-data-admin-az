@@ -1,0 +1,74 @@
+{
+  "id": 9895011267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.89969,39.47584,46.89969,39.47584",
+    "geom:latitude":39.47584,
+    "geom:longitude":46.89969,
+    "iso:country":"AZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11980403: name \"Yuxar\u0131 N\u00fcs\u00fcs\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11980403"
+        },
+        {
+            "citation":"GeoNames populated place 11980403: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11980403"
+        },
+        {
+            "citation":"GeoNames populated place 11980403: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11980403"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85668323 (C\u0259bray\u0131l), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717,
+        85668323,
+        102191569,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11980403
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c07889ca7fb4a0014c06ab43a41b346f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":9895011267,
+            "macroregion_id":1108808615,
+            "region_id":85668323
+        }
+    ],
+    "wof:id":9895011267,
+    "wof:lastmodified":1795735069,
+    "wof:name":"Yuxar\u0131 N\u00fcs\u00fcs",
+    "wof:parent_id":85668323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.89969,
+    39.47584,
+    46.89969,
+    39.47584
+],
+  "geometry": {"coordinates":[46.89969,39.47584],"type":"Point"}
+}

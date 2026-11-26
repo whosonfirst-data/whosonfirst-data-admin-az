@@ -1,0 +1,74 @@
+{
+  "id": 9895011157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.78936,38.5798,48.78936,38.5798",
+    "geom:latitude":38.5798,
+    "geom:longitude":48.78936,
+    "iso:country":"AZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11784047: name \"H\u0259sin\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11784047"
+        },
+        {
+            "citation":"GeoNames populated place 11784047: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11784047"
+        },
+        {
+            "citation":"GeoNames populated place 11784047: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11784047"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85668297 (Astara), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717,
+        85668297,
+        102191569,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11784047
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3707bdb78f58448d772ad0c04fd88414",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":9895011157,
+            "macroregion_id":1108808625,
+            "region_id":85668297
+        }
+    ],
+    "wof:id":9895011157,
+    "wof:lastmodified":1795735069,
+    "wof:name":"H\u0259sin",
+    "wof:parent_id":85668297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.78936,
+    38.5798,
+    48.78936,
+    38.5798
+],
+  "geometry": {"coordinates":[48.78936,38.5798],"type":"Point"}
+}

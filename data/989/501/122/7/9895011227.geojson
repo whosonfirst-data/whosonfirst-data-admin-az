@@ -1,0 +1,74 @@
+{
+  "id": 9895011227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.56802,38.86361,48.56802,38.86361",
+    "geom:latitude":38.86361,
+    "geom:longitude":48.56802,
+    "iso:country":"AZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11913309: name \"Jidi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11913309"
+        },
+        {
+            "citation":"GeoNames populated place 11913309: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11913309"
+        },
+        {
+            "citation":"GeoNames populated place 11913309: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11913309"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85668389 (Lankaran), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717,
+        85668389,
+        102191569,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11913309
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"26923b3b66b2561dd18704c9cc3b44a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":9895011227,
+            "macroregion_id":1108808625,
+            "region_id":85668389
+        }
+    ],
+    "wof:id":9895011227,
+    "wof:lastmodified":1795735069,
+    "wof:name":"Jidi",
+    "wof:parent_id":85668389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.56802,
+    38.86361,
+    48.56802,
+    38.86361
+],
+  "geometry": {"coordinates":[48.56802,38.86361],"type":"Point"}
+}

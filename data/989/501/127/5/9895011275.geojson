@@ -1,0 +1,74 @@
+{
+  "id": 9895011275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.65038,38.95958,46.65038,38.95958",
+    "geom:latitude":38.95958,
+    "geom:longitude":46.65038,
+    "iso:country":"AZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11997670: name \"Bartaz\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11997670"
+        },
+        {
+            "citation":"GeoNames populated place 11997670: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11997670"
+        },
+        {
+            "citation":"GeoNames populated place 11997670: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11997670"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85668659 (Z\u0259ngilan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717,
+        85668659,
+        102191569,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11997670
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e5bd979bfed36b013aea51727c2e713f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":9895011275,
+            "macroregion_id":1108808607,
+            "region_id":85668659
+        }
+    ],
+    "wof:id":9895011275,
+    "wof:lastmodified":1795735069,
+    "wof:name":"Bartaz",
+    "wof:parent_id":85668659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.65038,
+    38.95958,
+    46.65038,
+    38.95958
+],
+  "geometry": {"coordinates":[46.65038,38.95958],"type":"Point"}
+}

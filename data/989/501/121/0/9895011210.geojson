@@ -1,0 +1,74 @@
+{
+  "id": 9895011210,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.63883,38.96965,48.63883,38.96965",
+    "geom:latitude":38.96965,
+    "geom:longitude":48.63883,
+    "iso:country":"AZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11911913: name \"Ba\u011f\u0131roba\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11911913"
+        },
+        {
+            "citation":"GeoNames populated place 11911913: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11911913"
+        },
+        {
+            "citation":"GeoNames populated place 11911913: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11911913"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85668397 (Masall\u0131), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717,
+        85668397,
+        102191569,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11911913
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"16f5cce71179d246acbb888dae27ac45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":9895011210,
+            "macroregion_id":1108808625,
+            "region_id":85668397
+        }
+    ],
+    "wof:id":9895011210,
+    "wof:lastmodified":1795735069,
+    "wof:name":"Ba\u011f\u0131roba",
+    "wof:parent_id":85668397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.63883,
+    38.96965,
+    48.63883,
+    38.96965
+],
+  "geometry": {"coordinates":[48.63883,38.96965],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895011250,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.94406,40.50773,46.94406,40.50773",
+    "geom:latitude":40.50773,
+    "geom:longitude":46.94406,
+    "iso:country":"AZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11919085: name \"\u018flirzal\u0131\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11919085"
+        },
+        {
+            "citation":"GeoNames populated place 11919085: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11919085"
+        },
+        {
+            "citation":"GeoNames populated place 11919085: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11919085"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85668215 (Goranboy), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717,
+        85668215,
+        102191569,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11919085
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"60945eaadc0e76fb94ef93753b25ee89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":9895011250,
+            "macroregion_id":1108808609,
+            "region_id":85668215
+        }
+    ],
+    "wof:id":9895011250,
+    "wof:lastmodified":1795735069,
+    "wof:name":"\u018flirzal\u0131",
+    "wof:parent_id":85668215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.94406,
+    40.50773,
+    46.94406,
+    40.50773
+],
+  "geometry": {"coordinates":[46.94406,40.50773],"type":"Point"}
+}

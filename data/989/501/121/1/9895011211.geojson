@@ -1,0 +1,74 @@
+{
+  "id": 9895011211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.45288,40.01181,48.45288,40.01181",
+    "geom:latitude":40.01181,
+    "geom:longitude":48.45288,
+    "iso:country":"AZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11911918: name \"Yeni Novruzlu\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11911918"
+        },
+        {
+            "citation":"GeoNames populated place 11911918: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11911918"
+        },
+        {
+            "citation":"GeoNames populated place 11911918: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11911918"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85668433 (Saatl\u0131), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717,
+        85668433,
+        102191569,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11911918
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"5563163550de63fc5045c4dc5985bdf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":9895011211,
+            "macroregion_id":1108808627,
+            "region_id":85668433
+        }
+    ],
+    "wof:id":9895011211,
+    "wof:lastmodified":1795735069,
+    "wof:name":"Yeni Novruzlu",
+    "wof:parent_id":85668433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.45288,
+    40.01181,
+    48.45288,
+    40.01181
+],
+  "geometry": {"coordinates":[48.45288,40.01181],"type":"Point"}
+}

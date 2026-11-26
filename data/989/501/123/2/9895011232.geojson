@@ -1,0 +1,74 @@
+{
+  "id": 9895011232,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.08438,39.68263,48.08438,39.68263",
+    "geom:latitude":39.68263,
+    "geom:longitude":48.08438,
+    "iso:country":"AZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11913426: name \"Qa\u00e7q\u0131n \u015e\u0259h\u0259rciyi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11913426"
+        },
+        {
+            "citation":"GeoNames populated place 11913426: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11913426"
+        },
+        {
+            "citation":"GeoNames populated place 11913426: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11913426"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85668317 (Bil\u0259suvar), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717,
+        85668317,
+        102191569,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11913426
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"754a4056ef9cd45a6491e9e95274c5c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":9895011232,
+            "macroregion_id":1108808627,
+            "region_id":85668317
+        }
+    ],
+    "wof:id":9895011232,
+    "wof:lastmodified":1795735069,
+    "wof:name":"Qa\u00e7q\u0131n \u015e\u0259h\u0259rciyi",
+    "wof:parent_id":85668317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.08438,
+    39.68263,
+    48.08438,
+    39.68263
+],
+  "geometry": {"coordinates":[48.08438,39.68263],"type":"Point"}
+}

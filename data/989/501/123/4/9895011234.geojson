@@ -1,0 +1,74 @@
+{
+  "id": 9895011234,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.31096,38.78941,48.31096,38.78941",
+    "geom:latitude":38.78941,
+    "geom:longitude":48.31096,
+    "iso:country":"AZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11914974: name \"Sors\u00e7ay\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11914974"
+        },
+        {
+            "citation":"GeoNames populated place 11914974: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11914974"
+        },
+        {
+            "citation":"GeoNames populated place 11914974: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11914974"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85668403 (Lerik), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717,
+        85668403,
+        102191569,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11914974
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b0e6a96922a4de0a56969ad761e6d958",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":9895011234,
+            "macroregion_id":1108808625,
+            "region_id":85668403
+        }
+    ],
+    "wof:id":9895011234,
+    "wof:lastmodified":1795735069,
+    "wof:name":"Sors\u00e7ay",
+    "wof:parent_id":85668403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.31096,
+    38.78941,
+    48.31096,
+    38.78941
+],
+  "geometry": {"coordinates":[48.31096,38.78941],"type":"Point"}
+}

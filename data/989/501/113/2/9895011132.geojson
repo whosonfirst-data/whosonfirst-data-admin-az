@@ -1,0 +1,74 @@
+{
+  "id": 9895011132,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.90234,41.07571,48.90234,41.07571",
+    "geom:latitude":41.07571,
+    "geom:longitude":48.90234,
+    "iso:country":"AZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 586552: name \"Gadzhyiskenderli\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/586552"
+        },
+        {
+            "citation":"GeoNames populated place 586552: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/586552"
+        },
+        {
+            "citation":"GeoNames populated place 586552: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/586552"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85668339 (D\u0259v\u0259\u00e7i), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717,
+        85668339,
+        102191569,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586552
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"18dab9952b05318f04f8d0fc6b58f6dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":9895011132,
+            "macroregion_id":1108808623,
+            "region_id":85668339
+        }
+    ],
+    "wof:id":9895011132,
+    "wof:lastmodified":1795735069,
+    "wof:name":"Gadzhyiskenderli",
+    "wof:parent_id":85668339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.90234,
+    41.07571,
+    48.90234,
+    41.07571
+],
+  "geometry": {"coordinates":[48.90234,41.07571],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895011189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.72197,39.11893,48.72197,39.11893",
+    "geom:latitude":39.11893,
+    "geom:longitude":48.72197,
+    "iso:country":"AZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11814276: name \"T\u0259kdam\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11814276"
+        },
+        {
+            "citation":"GeoNames populated place 11814276: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11814276"
+        },
+        {
+            "citation":"GeoNames populated place 11814276: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11814276"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85668397 (Masall\u0131), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717,
+        85668397,
+        102191569,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11814276
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"96a57ff18d6aa98bcd7f4ecbb056fad9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":9895011189,
+            "macroregion_id":1108808625,
+            "region_id":85668397
+        }
+    ],
+    "wof:id":9895011189,
+    "wof:lastmodified":1795735069,
+    "wof:name":"T\u0259kdam",
+    "wof:parent_id":85668397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.72197,
+    39.11893,
+    48.72197,
+    39.11893
+],
+  "geometry": {"coordinates":[48.72197,39.11893],"type":"Point"}
+}

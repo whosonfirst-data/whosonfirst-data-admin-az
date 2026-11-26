@@ -1,0 +1,74 @@
+{
+  "id": 9895011316,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.25965,40.30733,48.25965,40.30733",
+    "geom:latitude":40.30733,
+    "geom:longitude":48.25965,
+    "iso:country":"AZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13414787: name \"Karrar\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13414787"
+        },
+        {
+            "citation":"GeoNames populated place 13414787: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13414787"
+        },
+        {
+            "citation":"GeoNames populated place 13414787: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13414787"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85668383 (K\u00fcrd\u0259mir), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717,
+        85668383,
+        102191569,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13414787
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"4b753fb98d2e82d8cc8861be82ef0a60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":9895011316,
+            "macroregion_id":1108808627,
+            "region_id":85668383
+        }
+    ],
+    "wof:id":9895011316,
+    "wof:lastmodified":1795735069,
+    "wof:name":"Karrar",
+    "wof:parent_id":85668383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.25965,
+    40.30733,
+    48.25965,
+    40.30733
+],
+  "geometry": {"coordinates":[48.25965,40.30733],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895011257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.76683,38.77395,48.76683,38.77395",
+    "geom:latitude":38.77395,
+    "geom:longitude":48.76683,
+    "iso:country":"AZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11919184: name \"Xanl\u0131ql\u0131\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11919184"
+        },
+        {
+            "citation":"GeoNames populated place 11919184: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11919184"
+        },
+        {
+            "citation":"GeoNames populated place 11919184: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11919184"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85668389 (Lankaran), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717,
+        85668389,
+        102191569,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11919184
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7a6b4c1fc57c5334466d4550232c80e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":9895011257,
+            "macroregion_id":1108808625,
+            "region_id":85668389
+        }
+    ],
+    "wof:id":9895011257,
+    "wof:lastmodified":1795735069,
+    "wof:name":"Xanl\u0131ql\u0131",
+    "wof:parent_id":85668389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.76683,
+    38.77395,
+    48.76683,
+    38.77395
+],
+  "geometry": {"coordinates":[48.76683,38.77395],"type":"Point"}
+}
